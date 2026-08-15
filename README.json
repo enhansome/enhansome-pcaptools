@@ -19,7 +19,7 @@
             "last_commit": "2026-08-05T17:03:19Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4432
+            "stars": 4437
           }
         },
         {
@@ -33,7 +33,7 @@
             "last_commit": "2024-07-01T09:09:55Z",
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1928
+            "stars": 1929
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-14T15:58:35Z",
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1233
+            "stars": 1234
           }
         },
         {
@@ -151,7 +151,7 @@
             "last_commit": "2023-04-10T15:30:02Z",
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3392
+            "stars": 3393
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3254
+            "stars": 3255
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2775
+            "stars": 2776
           }
         },
         {
@@ -232,7 +232,7 @@
           "repo_info": {
             "archived": false,
             "language": "C",
-            "last_commit": "2026-08-14T17:17:39Z",
+            "last_commit": "2026-08-15T16:15:36Z",
             "owner": "appneta",
             "repo": "tcpreplay",
             "stars": 1342
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T18:27:25.305Z",
+    "last_updated": "2026-08-15T17:49:28.827Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
     "enhanced_repository": "enhansome/enhansome-pcaptools",
