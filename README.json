@@ -16,10 +16,10 @@
           "repo_info": {
             "archived": false,
             "language": "Java",
-            "last_commit": "2026-08-05T17:03:19Z",
+            "last_commit": "2026-08-16T14:40:28Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4437
+            "stars": 4443
           }
         },
         {
@@ -47,7 +47,7 @@
             "last_commit": "2026-08-14T16:42:29Z",
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1477
+            "stars": 1478
           }
         },
         {
@@ -61,7 +61,7 @@
             "last_commit": "2026-08-14T15:58:35Z",
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1234
+            "stars": 1235
           }
         },
         {
@@ -165,7 +165,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3255
+            "stars": 3257
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2776
+            "stars": 2777
           }
         },
         {
@@ -207,7 +207,7 @@
             "last_commit": "2026-01-29T22:18:29Z",
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1773
+            "stars": 1774
           }
         },
         {
@@ -235,7 +235,7 @@
             "last_commit": "2026-08-15T16:15:36Z",
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1342
+            "stars": 1343
           }
         },
         {
@@ -344,7 +344,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-02T02:12:57Z",
+            "last_commit": "2026-08-16T02:12:55Z",
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 312
@@ -609,7 +609,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T17:49:28.827Z",
+    "last_updated": "2026-08-16T17:48:49.998Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
     "enhanced_repository": "enhansome/enhansome-pcaptools",
