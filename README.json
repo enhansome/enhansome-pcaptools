@@ -1,12 +1,7 @@
 {
   "items": [
     {
-      "description": "This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see https://github.com/sindresorhus/awesome\nLicense: CC0 1.0 Universal (CC0 1.0).",
-      "items": [],
-      "title": "Introduction"
-    },
-    {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -15,11 +10,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 232157758,
             "language": "Java",
             "last_commit": "2026-08-16T14:40:28Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4454
+            "stars": 4458
           }
         },
         {
@@ -29,6 +25,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 474043179,
             "language": "Go",
             "last_commit": "2024-07-01T09:09:55Z",
             "owner": "deepfence",
@@ -43,6 +40,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36370093,
             "language": "C#",
             "last_commit": "2026-08-14T16:42:29Z",
             "owner": "dotpcap",
@@ -57,6 +55,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 47927525,
             "language": "C",
             "last_commit": "2026-08-17T22:04:47Z",
             "owner": "pmacct",
@@ -71,6 +70,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 453178,
             "language": "C",
             "last_commit": "2026-02-08T03:34:33Z",
             "owner": "jpr5",
@@ -85,6 +85,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 138287889,
             "language": "C",
             "last_commit": "2026-07-06T06:40:01Z",
             "owner": "Netis",
@@ -99,6 +100,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 64569653,
             "language": "C++",
             "last_commit": "2026-08-08T22:55:50Z",
             "owner": "irino",
@@ -113,6 +115,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 22878997,
             "language": "Perl",
             "last_commit": "2019-02-02T23:32:48Z",
             "owner": "leonward",
@@ -127,6 +130,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6676946,
             "language": "Java",
             "last_commit": "2024-01-14T11:34:24Z",
             "owner": "ruedigergad",
@@ -138,7 +142,7 @@
       "title": "Traffic Capture"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -147,11 +151,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 240964901,
             "language": "C#",
             "last_commit": "2023-04-10T15:30:02Z",
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3395
+            "stars": 3396
           }
         },
         {
@@ -161,6 +166,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 2233708,
             "language": "C",
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
@@ -175,11 +181,12 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-14T08:48:09Z",
+            "last_commit": "2026-08-19T08:31:43Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3129
+            "stars": 3131
           }
         },
         {
@@ -189,6 +196,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 5041133,
             "language": "C",
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
@@ -203,6 +211,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 3889407,
             "language": "C++",
             "last_commit": "2026-01-29T22:18:29Z",
             "owner": "simsong",
@@ -217,6 +226,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 49294674,
             "language": "C",
             "last_commit": "2024-04-01T09:50:44Z",
             "owner": "cisco",
@@ -231,6 +241,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 14542959,
             "language": "C",
             "last_commit": "2026-08-15T16:15:36Z",
             "owner": "appneta",
@@ -245,6 +256,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 216051909,
             "language": "Python",
             "last_commit": "2026-08-17T15:03:00Z",
             "owner": "nfstream",
@@ -259,6 +271,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 4576441,
             "language": "Python",
             "last_commit": "2024-07-26T04:11:43Z",
             "owner": "kbandla",
@@ -273,6 +286,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 132141,
             "language": "C",
             "last_commit": "2025-02-19T10:11:37Z",
             "owner": "libnet",
@@ -287,8 +301,9 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-18T17:50:21Z",
+            "last_commit": "2026-08-19T12:21:13Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 912
@@ -301,6 +316,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 29181792,
             "language": "Python",
             "last_commit": "2023-03-16T02:20:12Z",
             "owner": "omriher",
@@ -315,6 +331,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 5860398,
             "language": "Python",
             "last_commit": "2022-12-19T21:28:41Z",
             "owner": "MITRECND",
@@ -329,6 +346,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 1338181,
             "language": "JavaScript",
             "last_commit": "2026-02-04T14:57:44Z",
             "owner": "DNS-OARC",
@@ -343,6 +361,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6434669,
             "language": "Rust",
             "last_commit": "2026-08-16T02:12:55Z",
             "owner": "pellegre",
@@ -357,6 +376,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 792322009,
             "language": "Go",
             "last_commit": "2026-08-14T15:03:04Z",
             "owner": "ddddddO",
@@ -371,6 +391,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 785514,
             "language": "Python",
             "last_commit": "2018-06-24T08:42:50Z",
             "owner": "andrewf",
@@ -385,6 +406,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 6952546,
             "language": "C",
             "last_commit": "2026-02-01T05:22:42Z",
             "owner": "caesar0301",
@@ -399,6 +421,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7257937,
             "language": "C++",
             "last_commit": "2025-08-12T15:24:24Z",
             "owner": "caesar0301",
@@ -413,6 +436,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11055079,
             "language": "Python",
             "last_commit": "2013-07-29T20:11:40Z",
             "owner": "kevthehermit",
@@ -427,6 +451,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 7546536,
             "language": "Python",
             "last_commit": "2014-10-21T13:54:23Z",
             "owner": "MITRECND",
@@ -441,6 +466,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 23381326,
             "language": "Python",
             "last_commit": "2019-03-01T08:14:33Z",
             "owner": "CIRCL",
@@ -455,6 +481,7 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "id": 3102196,
             "language": "C",
             "last_commit": "2017-04-05T15:33:04Z",
             "owner": "blitz",
@@ -469,6 +496,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7840544,
             "language": "C++",
             "last_commit": "2024-02-16T00:12:21Z",
             "owner": "kohler",
@@ -483,6 +511,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 68075402,
             "language": "Go",
             "last_commit": "2024-05-06T14:19:40Z",
             "owner": "pyke369",
@@ -497,6 +526,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 65300102,
             "language": "C",
             "last_commit": "2016-08-09T15:50:51Z",
             "owner": "pmcgleenon",
@@ -511,6 +541,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 938052095,
             "language": "Python",
             "last_commit": "2025-11-26T15:46:43Z",
             "owner": "nokia",
@@ -525,6 +556,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 36565573,
             "language": "C++",
             "last_commit": "2019-01-05T15:46:42Z",
             "owner": "rhasselbaum",
@@ -536,7 +568,7 @@
       "title": "Traffic Analysis/Inspection"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
@@ -545,6 +577,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 11002722,
             "language": "Shell",
             "last_commit": "2024-03-27T20:39:48Z",
             "owner": "sleuthkit",
@@ -559,6 +592,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 18618886,
             "language": null,
             "last_commit": "2021-08-21T15:22:51Z",
             "owner": "brendangregg",
@@ -573,6 +607,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 45613928,
             "language": "Python",
             "last_commit": "2020-02-13T08:42:33Z",
             "owner": "vikwin",
@@ -587,6 +622,7 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 7548694,
             "language": "C",
             "last_commit": "2013-01-10T21:40:05Z",
             "owner": "jonstewart",
@@ -596,21 +632,12 @@
         }
       ],
       "title": "File Extraction"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "USB"
-    },
-    {
-      "description": "Thank you all contributors ❤\n",
-      "items": [],
-      "title": "Contributors"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-18T17:56:43.892Z",
+    "last_updated": "2026-08-19T12:44:58.014Z",
     "original_repository": "caesar0301/awesome-pcaptools",
+    "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
     "enhanced_repository": "enhansome/enhansome-pcaptools",
     "enhanced_repository_description": null,
