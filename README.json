@@ -12,7 +12,7 @@
             "archived": false,
             "id": 232157758,
             "language": "Java",
-            "last_commit": "2026-08-16T14:40:28Z",
+            "last_commit": "2026-08-19T16:47:24Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
             "stars": 4458
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-17T22:04:47Z",
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1235
+            "stars": 1236
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3257
+            "stars": 3258
           }
         },
         {
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-19T12:21:13Z",
+            "last_commit": "2026-08-19T14:19:09Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 912
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:44:58.014Z",
+    "last_updated": "2026-08-19T17:53:02.614Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
