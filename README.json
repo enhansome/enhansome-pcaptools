@@ -12,10 +12,10 @@
             "archived": false,
             "id": 232157758,
             "language": "Java",
-            "last_commit": "2026-08-19T16:47:24Z",
+            "last_commit": "2026-08-20T06:58:53Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4458
+            "stars": 4485
           }
         },
         {
@@ -45,7 +45,7 @@
             "last_commit": "2026-08-14T16:42:29Z",
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1478
+            "stars": 1479
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2023-04-10T15:30:02Z",
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3396
+            "stars": 3395
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3258
+            "stars": 3260
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-19T08:31:43Z",
+            "last_commit": "2026-08-20T06:31:25Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -225,7 +225,7 @@
           "description": "joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.",
           "children": [],
           "repo_info": {
-            "archived": false,
+            "archived": true,
             "id": 49294674,
             "language": "C",
             "last_commit": "2024-04-01T09:50:44Z",
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-19T14:19:09Z",
+            "last_commit": "2026-08-20T10:33:17Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 912
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T17:53:02.614Z",
+    "last_updated": "2026-08-20T17:58:42.360Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
