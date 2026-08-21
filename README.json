@@ -12,10 +12,10 @@
             "archived": false,
             "id": 232157758,
             "language": "Java",
-            "last_commit": "2026-08-20T06:58:53Z",
+            "last_commit": "2026-08-21T09:27:46Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4485
+            "stars": 4568
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3260
+            "stars": 3261
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-20T06:31:25Z",
+            "last_commit": "2026-08-21T06:17:22Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -201,7 +201,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2778
+            "stars": 2779
           }
         },
         {
@@ -231,7 +231,7 @@
             "last_commit": "2024-04-01T09:50:44Z",
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367
+            "stars": 1368
           }
         },
         {
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-20T10:33:17Z",
+            "last_commit": "2026-08-21T10:10:52Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 912
@@ -336,7 +336,7 @@
             "last_commit": "2022-12-19T21:28:41Z",
             "owner": "MITRECND",
             "repo": "chopshop",
-            "stars": 496
+            "stars": 495
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 6434669,
             "language": "Rust",
-            "last_commit": "2026-08-16T02:12:55Z",
+            "last_commit": "2026-08-21T15:13:00Z",
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 311
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 792322009,
             "language": "Go",
-            "last_commit": "2026-08-14T15:03:04Z",
+            "last_commit": "2026-08-21T15:03:12Z",
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 305
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:58:42.360Z",
+    "last_updated": "2026-08-21T17:58:45.020Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
