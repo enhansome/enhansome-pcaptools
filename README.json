@@ -12,10 +12,10 @@
             "archived": false,
             "id": 232157758,
             "language": "Java",
-            "last_commit": "2026-08-21T09:27:46Z",
+            "last_commit": "2026-08-22T07:43:58Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4568
+            "stars": 4575
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 47927525,
             "language": "C",
-            "last_commit": "2026-08-17T22:04:47Z",
+            "last_commit": "2026-08-21T21:08:57Z",
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1236
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3261
+            "stars": 3262
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-21T06:17:22Z",
+            "last_commit": "2026-08-22T08:22:06Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -201,7 +201,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2779
+            "stars": 2780
           }
         },
         {
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-21T10:10:52Z",
+            "last_commit": "2026-08-22T10:56:24Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 912
@@ -582,7 +582,7 @@
             "last_commit": "2024-03-27T20:39:48Z",
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 686
+            "stars": 687
           }
         },
         {
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-21T17:58:45.020Z",
+    "last_updated": "2026-08-22T17:50:17.398Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
