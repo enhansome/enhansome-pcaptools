@@ -15,7 +15,7 @@
             "last_commit": "2026-08-22T07:43:58Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4575
+            "stars": 4584
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-08T03:34:33Z",
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1018
+            "stars": 1019
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3262
+            "stars": 3263
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-22T08:22:06Z",
+            "last_commit": "2026-08-23T07:41:55Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -201,7 +201,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2780
+            "stars": 2782
           }
         },
         {
@@ -246,7 +246,7 @@
             "last_commit": "2026-08-15T16:15:36Z",
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1344
+            "stars": 1345
           }
         },
         {
@@ -321,7 +321,7 @@
             "last_commit": "2023-03-16T02:20:12Z",
             "owner": "omriher",
             "repo": "CapTipper",
-            "stars": 725
+            "stars": 726
           }
         },
         {
@@ -363,7 +363,7 @@
             "archived": false,
             "id": 6434669,
             "language": "Rust",
-            "last_commit": "2026-08-21T15:13:00Z",
+            "last_commit": "2026-08-23T02:11:25Z",
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 311
@@ -635,7 +635,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T17:50:17.398Z",
+    "last_updated": "2026-08-23T17:49:32.218Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
