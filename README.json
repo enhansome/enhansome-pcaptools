@@ -12,10 +12,10 @@
             "archived": false,
             "id": 232157758,
             "language": "Java",
-            "last_commit": "2026-08-22T07:43:58Z",
+            "last_commit": "2026-08-24T08:59:12Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4584
+            "stars": 4591
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3263
+            "stars": 3264
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2782
+            "stars": 2783
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2024-03-27T20:39:48Z",
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 687
+            "stars": 688
           }
         },
         {
@@ -632,10 +632,60 @@
         }
       ],
       "title": "File Extraction"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "USBPcap",
+              "description": "a solution for Windows.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 8383178,
+                "language": "C",
+                "last_commit": "2025-02-09T16:32:47Z",
+                "owner": "desowin",
+                "repo": "usbpcap",
+                "stars": 1128
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Capture tools"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "USBPcapOdinDumper",
+              "description": "transforms .pcap files with and frames format of captures from flashing an Android phone with Odin or Heimdall into a set of files with frames payload. Useful for reverse-engineering. Has a modular architecture easily transformable for other applications formats.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 108296766,
+                "language": "Python",
+                "last_commit": "2023-10-09T14:44:14Z",
+                "owner": "KOLANICH-tools",
+                "repo": "USBPcapOdinDumper.py",
+                "stars": 13
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Analysis"
+        }
+      ],
+      "title": "USB"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T17:49:32.218Z",
+    "last_updated": "2026-08-24T14:00:15.365Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
