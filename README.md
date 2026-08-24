@@ -2,9 +2,9 @@
 
 ## Introduction
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,562 | 🐛 106 | 📅 2026-08-21
 
-This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 499,509 | 🐛 106 | 📅 2026-08-21
+This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 499,562 | 🐛 106 | 📅 2026-08-21
 
 **License**: CC0 1.0 Universal (CC0 1.0).
 
@@ -63,7 +63,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [sharppcap](https://github.com/dotpcap/sharppcap) ⭐ 1,479 | 🐛 29 | 🌐 C# | 📅 2026-08-14: Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices. A realiable and robust wrapper of libpcap and npcap.
 
-* [pmacct](https://github.com/pmacct/pmacct) ⭐ 1,236 | 🐛 50 | 🌐 C | 📅 2026-08-21: is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry.
+* [pmacct](https://github.com/pmacct/pmacct) ⭐ 1,236 | 🐛 51 | 🌐 C | 📅 2026-08-24: is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry.
 
 * [Ngrep](https://github.com/jpr5/ngrep/) ⭐ 1,019 | 🐛 1 | 🌐 C | 📅 2026-02-08: strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes TCP, UDP and ICMP across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands bpf filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
@@ -103,7 +103,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived: joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
 
-* [Tcpreplay](https://github.com/appneta/tcpreplay) ⭐ 1,345 | 🐛 0 | 🌐 C | 📅 2026-08-15: Replays a pcap file on an interface using libnet.
+* [Tcpreplay](https://github.com/appneta/tcpreplay) ⭐ 1,344 | 🐛 0 | 🌐 C | 📅 2026-08-15: Replays a pcap file on an interface using libnet.
 
 * [NFStream](https://github.com/nfstream/nfstream) ⭐ 1,218 | 🐛 31 | 🌐 Python | 📅 2026-08-17: is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
