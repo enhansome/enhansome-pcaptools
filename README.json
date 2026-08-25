@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:59:12Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4594
+            "stars": 4598
           }
         },
         {
@@ -42,7 +42,7 @@
             "archived": false,
             "id": 36370093,
             "language": "C#",
-            "last_commit": "2026-08-14T16:42:29Z",
+            "last_commit": "2026-08-25T12:09:45Z",
             "owner": "dotpcap",
             "repo": "sharppcap",
             "stars": 1479
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-24T20:29:19Z",
+            "last_commit": "2026-08-25T17:38:52Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3131
+            "stars": 3132
           }
         },
         {
@@ -201,7 +201,7 @@
             "last_commit": "2026-05-26T10:13:31Z",
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2783
+            "stars": 2784
           }
         },
         {
@@ -306,7 +306,7 @@
             "last_commit": "2026-08-22T10:56:24Z",
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 912
+            "stars": 913
           }
         },
         {
@@ -582,7 +582,7 @@
             "last_commit": "2024-03-27T20:39:48Z",
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 688
+            "stars": 689
           }
         },
         {
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T05:53:52.339Z",
+    "last_updated": "2026-08-25T17:59:49.943Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
