@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:59:12Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4591
+            "stars": 4594
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-23T07:41:55Z",
+            "last_commit": "2026-08-24T20:29:19Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3131
@@ -650,7 +650,7 @@
                 "last_commit": "2025-02-09T16:32:47Z",
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1128
+                "stars": 1129
               }
             }
           ],
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T18:00:52.668Z",
+    "last_updated": "2026-08-25T05:53:52.339Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
