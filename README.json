@@ -15,7 +15,7 @@
             "last_commit": "2026-08-24T08:59:12Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4598
+            "stars": 4601
           }
         },
         {
@@ -60,7 +60,7 @@
             "last_commit": "2026-08-24T14:18:17Z",
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1236
+            "stars": 1237
           }
         },
         {
@@ -75,7 +75,7 @@
             "last_commit": "2026-02-08T03:34:33Z",
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1019
+            "stars": 1020
           }
         },
         {
@@ -156,7 +156,7 @@
             "last_commit": "2023-04-10T15:30:02Z",
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3395
+            "stars": 3394
           }
         },
         {
@@ -171,7 +171,7 @@
             "last_commit": "2023-03-15T23:09:58Z",
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3264
+            "stars": 3266
           }
         },
         {
@@ -183,10 +183,10 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-25T17:38:52Z",
+            "last_commit": "2026-08-26T15:49:42Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3132
+            "stars": 3131
           }
         },
         {
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-22T10:56:24Z",
+            "last_commit": "2026-08-26T15:04:25Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 913
@@ -378,7 +378,7 @@
             "archived": false,
             "id": 792322009,
             "language": "Go",
-            "last_commit": "2026-08-21T15:03:12Z",
+            "last_commit": "2026-08-26T13:43:26Z",
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 305
@@ -650,7 +650,7 @@
                 "last_commit": "2025-02-09T16:32:47Z",
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1129
+                "stars": 1130
               }
             }
           ],
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T17:59:49.943Z",
+    "last_updated": "2026-08-26T19:24:51.910Z",
     "original_repository": "caesar0301/awesome-pcaptools",
     "original_repository_id": 4415789,
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
