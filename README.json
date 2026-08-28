@@ -15,7 +15,7 @@
             "last_commit": "2026-08-26T20:37:14Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4607
+            "stars": 4609
           }
         },
         {
@@ -183,7 +183,7 @@
             "archived": false,
             "id": 24911519,
             "language": "C++",
-            "last_commit": "2026-08-27T07:30:45Z",
+            "last_commit": "2026-08-27T17:13:40Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3132
@@ -303,7 +303,7 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-27T10:43:34Z",
+            "last_commit": "2026-08-27T19:41:29Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 913
@@ -597,7 +597,7 @@
             "last_commit": "2021-08-21T15:22:51Z",
             "owner": "brendangregg",
             "repo": "Chaosreader",
-            "stars": 239
+            "stars": 238
           }
         },
         {
@@ -685,7 +685,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:58:47.488Z",
+    "last_updated": "2026-08-28T01:37:12.269Z",
     "original_repository_info": {
       "archived": false,
       "id": 4415789,
@@ -693,7 +693,7 @@
       "last_commit": "2025-09-03T07:24:40Z",
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3415
+      "stars": 3414
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
     "enhanced_repository": "enhansome/enhansome-pcaptools",
