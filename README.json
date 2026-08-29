@@ -15,8 +15,9 @@
             "last_commit": "2026-08-26T20:37:14Z",
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4609
-          }
+            "stars": 4619
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "deepfence",
             "repo": "PacketStreamer",
             "stars": 1929
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "dotpcap",
             "repo": "sharppcap",
             "stars": 1479
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -57,11 +60,12 @@
             "archived": false,
             "id": 47927525,
             "language": "C",
-            "last_commit": "2026-08-26T20:51:54Z",
+            "last_commit": "2026-08-28T18:50:05Z",
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1237
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "jpr5",
             "repo": "ngrep",
             "stars": 1020
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "Netis",
             "repo": "cloud-probe",
             "stars": 963
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "irino",
             "repo": "softflowd",
             "stars": 215
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "leonward",
             "repo": "OpenFPC",
             "stars": 73
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "ruedigergad",
             "repo": "clj-net-pcap",
             "stars": 67
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         }
       ],
       "title": "Traffic Capture"
@@ -157,7 +166,8 @@
             "owner": "odedshimon",
             "repo": "BruteShark",
             "stars": 3395
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -172,7 +182,8 @@
             "owner": "basil00",
             "repo": "WinDivert",
             "stars": 3269
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -186,8 +197,9 @@
             "last_commit": "2026-08-27T17:13:40Z",
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3132
-          }
+            "stars": 3133
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -198,11 +210,12 @@
             "archived": false,
             "id": 5041133,
             "language": "C",
-            "last_commit": "2026-05-26T10:13:31Z",
+            "last_commit": "2026-08-28T02:17:47Z",
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2784
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -216,8 +229,9 @@
             "last_commit": "2026-01-29T22:18:29Z",
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1774
-          }
+            "stars": 1775
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -232,7 +246,8 @@
             "owner": "cisco",
             "repo": "joy",
             "stars": 1368
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -247,7 +262,8 @@
             "owner": "appneta",
             "repo": "tcpreplay",
             "stars": 1344
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -261,8 +277,9 @@
             "last_commit": "2026-08-17T15:03:00Z",
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1218
-          }
+            "stars": 1219
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -276,8 +293,9 @@
             "last_commit": "2024-07-26T04:11:43Z",
             "owner": "kbandla",
             "repo": "dpkt",
-            "stars": 1159
-          }
+            "stars": 1160
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -291,8 +309,9 @@
             "last_commit": "2025-02-19T10:11:37Z",
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 956
-          }
+            "stars": 957
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -303,11 +322,12 @@
             "archived": false,
             "id": 40435192,
             "language": "C",
-            "last_commit": "2026-08-27T19:41:29Z",
+            "last_commit": "2026-08-28T16:15:32Z",
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 913
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -322,7 +342,8 @@
             "owner": "omriher",
             "repo": "CapTipper",
             "stars": 726
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -337,7 +358,8 @@
             "owner": "MITRECND",
             "repo": "chopshop",
             "stars": 495
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -352,7 +374,8 @@
             "owner": "DNS-OARC",
             "repo": "PacketQ",
             "stars": 396
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -367,7 +390,8 @@
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 311
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -381,8 +405,9 @@
             "last_commit": "2026-08-26T13:43:26Z",
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 305
-          }
+            "stars": 306
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -397,7 +422,8 @@
             "owner": "andrewf",
             "repo": "pcap2har",
             "stars": 244
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -412,7 +438,8 @@
             "owner": "caesar0301",
             "repo": "http-sniffer",
             "stars": 192
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -427,7 +454,8 @@
             "owner": "caesar0301",
             "repo": "pkt2flow",
             "stars": 176
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -442,7 +470,8 @@
             "owner": "kevthehermit",
             "repo": "YaraPcap",
             "stars": 108
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -457,7 +486,8 @@
             "owner": "MITRECND",
             "repo": "yaraprocessor",
             "stars": 97
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -472,7 +502,8 @@
             "owner": "CIRCL",
             "repo": "potiron",
             "stars": 88
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -487,7 +518,8 @@
             "owner": "blitz",
             "repo": "tcptrace",
             "stars": 79
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -502,7 +534,8 @@
             "owner": "kohler",
             "repo": "ipsumdump",
             "stars": 40
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -517,7 +550,8 @@
             "owner": "pyke369",
             "repo": "tcpsplice",
             "stars": 8
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -532,7 +566,8 @@
             "owner": "pmcgleenon",
             "repo": "tcpsplit",
             "stars": 7
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -547,7 +582,8 @@
             "owner": "nokia",
             "repo": "pcaptoparquet",
             "stars": 6
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -562,7 +598,8 @@
             "owner": "rhasselbaum",
             "repo": "socket-sentry",
             "stars": 4
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         }
       ],
       "title": "Traffic Analysis/Inspection"
@@ -583,7 +620,8 @@
             "owner": "sleuthkit",
             "repo": "scalpel",
             "stars": 689
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -598,7 +636,8 @@
             "owner": "brendangregg",
             "repo": "Chaosreader",
             "stars": 238
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -613,7 +652,8 @@
             "owner": "vikwin",
             "repo": "pcapfex",
             "stars": 229
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         },
         {
           "node_type": "item",
@@ -628,7 +668,8 @@
             "owner": "jonstewart",
             "repo": "foremost",
             "stars": 54
-          }
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
         }
       ],
       "title": "File Extraction"
@@ -651,7 +692,8 @@
                 "owner": "desowin",
                 "repo": "usbpcap",
                 "stars": 1131
-              }
+              },
+              "first_seen": "2026-08-29T01:07:54.833Z"
             }
           ],
           "description": null,
@@ -673,7 +715,8 @@
                 "owner": "KOLANICH-tools",
                 "repo": "USBPcapOdinDumper.py",
                 "stars": 13
-              }
+              },
+              "first_seen": "2026-08-29T01:07:54.833Z"
             }
           ],
           "description": null,
@@ -685,7 +728,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T01:37:12.269Z",
+    "last_updated": "2026-08-29T01:07:54.833Z",
     "original_repository_info": {
       "archived": false,
       "id": 4415789,
@@ -693,7 +736,7 @@
       "last_commit": "2025-09-03T07:24:40Z",
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3414
+      "stars": 3416
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
     "enhanced_repository": "enhansome/enhansome-pcaptools",
