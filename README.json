@@ -10,12 +10,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "No-root network monitor, firewall and PCAP dumper for Android",
+            "homepage": "https://emanuele-f.github.io/PCAPdroid",
             "id": 232157758,
             "language": "Java",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-26T20:37:14Z",
+            "open_issues": 45,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4619
+            "stars": 4619,
+            "topics": [
+              "android",
+              "capture-traffic",
+              "decryption",
+              "firewall",
+              "network-analysis",
+              "no-root",
+              "pcap",
+              "pcap-files",
+              "sniffer",
+              "sniffing",
+              "traffic-monitor",
+              "wireshark"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -26,12 +44,34 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": ":star: :star: Distributed tcpdump for cloud native environments :star: :star:",
+            "homepage": null,
             "id": 474043179,
             "language": "Go",
+            "license": "Apache-2.0",
             "last_commit": "2024-07-01T09:09:55Z",
+            "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1929
+            "stars": 1929,
+            "topics": [
+              "forensics-tools",
+              "hacktoberfest",
+              "infosectools",
+              "network-analysis",
+              "observability",
+              "packet-capture",
+              "packet-sniffer",
+              "pcap",
+              "secops",
+              "security-tools",
+              "snort",
+              "soc",
+              "suricata",
+              "tcpdump-like",
+              "traffic-monitoring",
+              "zeek"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -42,12 +82,33 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Official repository - Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets",
+            "homepage": null,
             "id": 36370093,
             "language": "C#",
+            "license": null,
             "last_commit": "2026-08-25T12:09:45Z",
+            "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1479
+            "stars": 1479,
+            "topics": [
+              "analysis",
+              "c-sharp",
+              "capture-packets",
+              "capturing-packets",
+              "cross-platform",
+              "linux",
+              "macos",
+              "network-monitoring",
+              "network-programming",
+              "npcap",
+              "packet",
+              "packets",
+              "sharppcap",
+              "windivert",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -58,12 +119,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "pmacct is a small set of multi-purpose passive network monitoring tools [NetFlow IPFIX sFlow libpcap BGP BMP RPKI IGP Streaming Telemetry].",
+            "homepage": "http://www.pmacct.net",
             "id": 47927525,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:50:05Z",
+            "open_issues": 51,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1237
+            "stars": 1237,
+            "topics": [
+              "avro",
+              "bgp",
+              "bgp-ls",
+              "bmp",
+              "geoip2",
+              "ipfix",
+              "json",
+              "kafka",
+              "libpcap",
+              "mysql",
+              "ndpi",
+              "netflow",
+              "nflog",
+              "pmacct",
+              "postgresql",
+              "rabbitmq",
+              "rpki",
+              "sflow",
+              "sql",
+              "sqlite3"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -74,12 +161,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ngrep is like GNU grep applied to the network layer. It's a PCAP-based tool that allows you to specify an extended regular or hexadecimal expression to match against data payloads of packets. It understands many kinds of protocols, including IPv4/6, TCP, UDP, ICMPv4/6, IGMP and Raw, across a wide variety of interface types, and understands BPF filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop.",
+            "homepage": "https://github.com/jpr5/ngrep",
             "id": 453178,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-02-08T03:34:33Z",
+            "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1020
+            "stars": 1020,
+            "topics": [
+              "grepping",
+              "sniffer"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -90,12 +185,30 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Software Probe for network packet capturing and forwarding in Cloud/Kubernetes and Virtualized environment.",
+            "homepage": null,
             "id": 138287889,
             "language": "C",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-06T06:40:01Z",
+            "open_issues": 1,
             "owner": "Netis",
             "repo": "cloud-probe",
-            "stars": 963
+            "stars": 963,
+            "topics": [
+              "capture",
+              "cloud",
+              "docker",
+              "gre",
+              "kubernetes",
+              "netis",
+              "network",
+              "pcap",
+              "sniffer",
+              "tcpdump",
+              "traffic",
+              "vxlan"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -106,12 +219,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "softflowd:  A flow-based network traffic analyser capable of Cisco NetFlow data export software.",
+            "homepage": "https://github.com/irino/softflowd",
             "id": 64569653,
             "language": "C++",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-08T22:55:50Z",
+            "open_issues": 3,
             "owner": "irino",
             "repo": "softflowd",
-            "stars": 215
+            "stars": 215,
+            "topics": [
+              "ipfix",
+              "netflow",
+              "netflow-exports",
+              "netflow-v5",
+              "netflow-v9",
+              "psamp"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -122,12 +247,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "OpenFPC, Open Source Full Packet Capture",
+            "homepage": "http://www.openfpc.org",
             "id": 22878997,
             "language": "Perl",
+            "license": null,
             "last_commit": "2019-02-02T23:32:48Z",
+            "open_issues": 10,
             "owner": "leonward",
             "repo": "OpenFPC",
-            "stars": 73
+            "stars": 73,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -138,12 +268,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A wrapper/facade/whatever to enable/ease the use of jNetPcap (a libpcap based packet sniffing lib) in Clojure",
+            "homepage": null,
             "id": 6676946,
             "language": "Java",
+            "license": null,
             "last_commit": "2024-01-14T11:34:24Z",
+            "open_issues": 13,
             "owner": "ruedigergad",
             "repo": "clj-net-pcap",
-            "stars": 67
+            "stars": 67,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         }
@@ -160,12 +295,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Network Analysis Tool",
+            "homepage": null,
             "id": 240964901,
             "language": "C#",
+            "license": "GPL-3.0",
             "last_commit": "2023-04-10T15:30:02Z",
+            "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3395
+            "stars": 3395,
+            "topics": [
+              "bruteforce",
+              "cyber",
+              "hacking",
+              "hacktoberfest",
+              "hacktoberfest2021",
+              "hashcat",
+              "kerberos",
+              "neo4j",
+              "netcore",
+              "network-analysis",
+              "network-diagram",
+              "opensource",
+              "pcap",
+              "pcap-files",
+              "pcapng",
+              "sniffer",
+              "sniffing"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -176,12 +334,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WinDivert: Windows Packet Divert",
+            "homepage": "https://reqrypt.org/windivert.html",
             "id": 2233708,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2023-03-15T23:09:58Z",
+            "open_issues": 64,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3269
+            "stars": 3269,
+            "topics": [
+              "divert-sockets",
+              "firewall",
+              "network-programming",
+              "packet-capture",
+              "packet-sniffer",
+              "traffic-analysis",
+              "windivert"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -192,12 +363,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "PcapPlusPlus is a multiplatform C++ library for capturing, parsing and crafting of network packets. It is designed to be efficient, powerful and easy to use. It provides C++ wrappers for the most popular packet processing engines such as libpcap, Npcap, WinPcap, DPDK, AF_XDP and PF_RING.",
+            "homepage": "https://pcapplusplus.github.io/",
             "id": 24911519,
             "language": "C++",
+            "license": "Unlicense",
             "last_commit": "2026-08-27T17:13:40Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3133
+            "stars": 3133,
+            "topics": [
+              "cpp",
+              "dpdk",
+              "ebpf",
+              "libpcap",
+              "linux",
+              "mac-osx",
+              "multiplatform",
+              "network-forensics",
+              "network-tools",
+              "networking",
+              "packet-crafting",
+              "packet-parsing",
+              "packet-processing",
+              "pcap",
+              "pcap-files",
+              "pcapplusplus",
+              "pf-ring",
+              "tcp-reassembly",
+              "windows",
+              "winpcap"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -208,12 +405,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ettercap Project",
+            "homepage": "http://www.ettercap-project.org",
             "id": 5041133,
             "language": "C",
+            "license": "GPL-2.0",
             "last_commit": "2026-08-28T02:17:47Z",
+            "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2784
+            "stars": 2784,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -224,12 +426,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "TCP/IP packet demultiplexer. Download from:",
+            "homepage": "http://downloads.digitalcorpora.org/downloads/tcpflow/",
             "id": 3889407,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-29T22:18:29Z",
+            "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1775
+            "stars": 1775,
+            "topics": [
+              "digital-forensics",
+              "forensics",
+              "tcp-protocol",
+              "tcpip"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -240,12 +452,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "A package for capturing and analyzing network flow data and intraflow data, for network research, forensics, and security monitoring.",
+            "homepage": null,
             "id": 49294674,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-01T09:50:44Z",
+            "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1368
+            "stars": 1368,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -256,12 +473,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Edit and replay captured network traffic at arbitrary speeds — a suite of pcap tools for *NIX and Windows.",
+            "homepage": "https://tcpreplay.appneta.com",
             "id": 14542959,
             "language": "C",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-15T16:15:36Z",
+            "open_issues": 0,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1344
+            "stars": 1344,
+            "topics": [
+              "c",
+              "flow",
+              "netflow",
+              "netmap",
+              "packet-generator",
+              "pcap",
+              "performance",
+              "performance-testing",
+              "replays-pcap-files",
+              "tcpreplay",
+              "traffic"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -272,12 +506,37 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NFStream: a Flexible Network Data Analysis Framework.",
+            "homepage": "https://www.nfstream.org",
             "id": 216051909,
             "language": "Python",
+            "license": "LGPL-3.0",
             "last_commit": "2026-08-17T15:03:00Z",
+            "open_issues": 31,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1219
+            "stars": 1219,
+            "topics": [
+              "artificial-intelligence",
+              "cybersecurity",
+              "data-analysis",
+              "data-mining",
+              "data-science",
+              "dataset-generation",
+              "deep-packet-inspection",
+              "machine-learning",
+              "ndpi",
+              "netflow",
+              "network-analysis",
+              "network-monitoring",
+              "network-security",
+              "packet-analyser",
+              "packet-capture",
+              "pcap",
+              "python",
+              "traffic-analysis",
+              "traffic-classification"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -288,12 +547,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "fast, simple packet creation / parsing, with definitions for the basic TCP/IP protocols",
+            "homepage": null,
             "id": 4576441,
             "language": "Python",
+            "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
+            "open_issues": 95,
             "owner": "kbandla",
             "repo": "dpkt",
-            "stars": 1160
+            "stars": 1160,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -304,12 +568,34 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A portable framework for low-level network packet construction",
+            "homepage": "https://codedocs.xyz/libnet/libnet/",
             "id": 132141,
             "language": "C",
+            "license": "BSD-2-Clause",
             "last_commit": "2025-02-19T10:11:37Z",
+            "open_issues": 10,
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 957
+            "stars": 957,
+            "topics": [
+              "arp",
+              "bgp",
+              "dhcp",
+              "dns",
+              "dot1q",
+              "dot1x",
+              "gre",
+              "hsrp",
+              "igmp",
+              "mpls",
+              "network-packets",
+              "ntp",
+              "ospf",
+              "rip",
+              "tcp",
+              "udp"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -320,12 +606,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Netflow processing tools",
+            "homepage": null,
             "id": 40435192,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T16:15:32Z",
+            "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 913
+            "stars": 913,
+            "topics": [
+              "ipfix",
+              "netflow",
+              "netflow-v9",
+              "network-analysis",
+              "nfdump",
+              "nfsen",
+              "pcap-netflow",
+              "pcap-parser",
+              "sflow",
+              "sflow-receiver"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -336,12 +638,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Malicious HTTP traffic explorer",
+            "homepage": null,
             "id": 29181792,
             "language": "Python",
+            "license": "GPL-3.0",
             "last_commit": "2023-03-16T02:20:12Z",
+            "open_issues": 15,
             "owner": "omriher",
             "repo": "CapTipper",
-            "stars": 726
+            "stars": 726,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -352,12 +659,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Protocol Analysis/Decoder Framework",
+            "homepage": "https://chopshop.readthedocs.org/",
             "id": 5860398,
             "language": "Python",
+            "license": null,
             "last_commit": "2022-12-19T21:28:41Z",
+            "open_issues": 12,
             "owner": "MITRECND",
             "repo": "chopshop",
-            "stars": 495
+            "stars": 495,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -368,12 +680,21 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Moved to https://codeberg.org/DNS-OARC/PacketQ",
+            "homepage": "https://www.dns-oarc.net/tools/packetq",
             "id": 1338181,
             "language": "JavaScript",
+            "license": "GPL-3.0",
             "last_commit": "2026-02-04T14:57:44Z",
+            "open_issues": 12,
             "owner": "DNS-OARC",
             "repo": "PacketQ",
-            "stars": 396
+            "stars": 396,
+            "topics": [
+              "dns",
+              "pcap",
+              "sql"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -384,12 +705,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Rust library for constructing, sending, capturing, and decoding network packets",
+            "homepage": "https://docs.rs/crafter",
             "id": 6434669,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-23T02:11:25Z",
+            "open_issues": 5,
             "owner": "pellegre",
             "repo": "libcrafter",
-            "stars": 311
+            "stars": 311,
+            "topics": [
+              "libpcap",
+              "network-programming",
+              "networking",
+              "packet-crafting",
+              "packet-decoder",
+              "packet-parsing",
+              "packet-sniffing",
+              "packets",
+              "pcap",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -400,12 +737,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Packet monster (っ‘-’)╮=͟͟͞͞◒  ヽ( '-'ヽ)  TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0). Windows/macOS/Linux",
+            "homepage": null,
             "id": 792322009,
             "language": "Go",
+            "license": "BSD-2-Clause",
             "last_commit": "2026-08-26T13:43:26Z",
+            "open_issues": 33,
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 306
+            "stars": 306,
+            "topics": [
+              "ebpf",
+              "linux",
+              "macos",
+              "network",
+              "network-programming",
+              "networking",
+              "packet",
+              "packet-analyzer",
+              "packet-generator",
+              "packet-monitoring",
+              "pcap",
+              "penetration-testing",
+              "pentesting",
+              "port-scanner",
+              "protocol",
+              "security",
+              "socket-programming",
+              "sockets",
+              "system-programming",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -416,12 +779,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A convertor from .pcap network capture files to HTTP Archive files.",
+            "homepage": null,
             "id": 785514,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2018-06-24T08:42:50Z",
+            "open_issues": 17,
             "owner": "andrewf",
             "repo": "pcap2har",
-            "stars": 244
+            "stars": 244,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -432,12 +800,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multi-threading tool to sniff TCP flow statistics and embedded HTTP headers from PCAP file. Each TCP flow carrying HTTP is exported to text file in json format.",
+            "homepage": "http://caesar0301.github.io/http-sniffer",
             "id": 6952546,
             "language": "C",
+            "license": "MIT",
             "last_commit": "2026-02-01T05:22:42Z",
+            "open_issues": 2,
             "owner": "caesar0301",
             "repo": "http-sniffer",
-            "stars": 192
+            "stars": 192,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -448,12 +821,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A simple, cross-platform utility to classify packets into flows using only the essential 4-tuple.",
+            "homepage": null,
             "id": 7257937,
             "language": "C++",
+            "license": "MIT",
             "last_commit": "2025-08-12T15:24:24Z",
+            "open_issues": 9,
             "owner": "caesar0301",
             "repo": "pkt2flow",
-            "stars": 176
+            "stars": 176,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -464,12 +842,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Process HTTP Pcaps With YARA",
+            "homepage": null,
             "id": 11055079,
             "language": "Python",
+            "license": null,
             "last_commit": "2013-07-29T20:11:40Z",
+            "open_issues": 1,
             "owner": "kevthehermit",
             "repo": "YaraPcap",
-            "stars": 108
+            "stars": 108,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -480,12 +863,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Yara is awesome, but sometimes you need to manipulate the data streams you're scanning in different ways.",
+            "homepage": null,
             "id": 7546536,
             "language": "Python",
+            "license": "BSD-2-Clause",
             "last_commit": "2014-10-21T13:54:23Z",
+            "open_issues": 1,
             "owner": "MITRECND",
             "repo": "yaraprocessor",
-            "stars": 97
+            "stars": 97,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -496,12 +884,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Potiron - Normalize, Index and Visualize Network Capture",
+            "homepage": null,
             "id": 23381326,
             "language": "Python",
+            "license": null,
             "last_commit": "2019-03-01T08:14:33Z",
+            "open_issues": 6,
             "owner": "CIRCL",
             "repo": "potiron",
-            "stars": 88
+            "stars": 88,
+            "topics": [
+              "graph",
+              "information-security",
+              "information-visualization",
+              "network-analysis",
+              "network-capture",
+              "pcap",
+              "tshark"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -512,12 +913,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "tcptrace is a tool written by Shawn Ostermann at Ohio University, for analysis of TCP dump files.",
+            "homepage": "http://www.tcptrace.org/",
             "id": 3102196,
             "language": "C",
+            "license": "NOASSERTION",
             "last_commit": "2017-04-05T15:33:04Z",
+            "open_issues": 8,
             "owner": "blitz",
             "repo": "tcptrace",
-            "stars": 79
+            "stars": 79,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -528,12 +934,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ipsumdump and other programs for command-line network trace manipulation.",
+            "homepage": null,
             "id": 7840544,
             "language": "C++",
+            "license": null,
             "last_commit": "2024-02-16T00:12:21Z",
+            "open_issues": 3,
             "owner": "kohler",
             "repo": "ipsumdump",
-            "stars": 40
+            "stars": 40,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -544,12 +955,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "high bandwidth for high-latency tcp connections",
+            "homepage": null,
             "id": 68075402,
             "language": "Go",
+            "license": null,
             "last_commit": "2024-05-06T14:19:40Z",
+            "open_issues": 2,
             "owner": "pyke369",
             "repo": "tcpsplice",
-            "stars": 8
+            "stars": 8,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -560,12 +976,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "split a pcap file into smaller files on TCP flow boundaries",
+            "homepage": null,
             "id": 65300102,
             "language": "C",
+            "license": "Apache-2.0",
             "last_commit": "2016-08-09T15:50:51Z",
+            "open_issues": 0,
             "owner": "pmcgleenon",
             "repo": "tcpsplit",
-            "stars": 7
+            "stars": 7,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -576,12 +997,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A package for converting PCAP files to parquet format.",
+            "homepage": null,
             "id": 938052095,
             "language": "Python",
+            "license": "BSD-3-Clause",
             "last_commit": "2025-11-26T15:46:43Z",
+            "open_issues": 0,
             "owner": "nokia",
             "repo": "pcaptoparquet",
-            "stars": 6
+            "stars": 6,
+            "topics": [
+              "csv",
+              "json",
+              "parquet",
+              "pcap"
+            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -592,12 +1023,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Automatically exported from code.google.com/p/socket-sentry",
+            "homepage": null,
             "id": 36565573,
             "language": "C++",
+            "license": "GPL-3.0",
             "last_commit": "2019-01-05T15:46:42Z",
+            "open_issues": 4,
             "owner": "rhasselbaum",
             "repo": "socket-sentry",
-            "stars": 4
+            "stars": 4,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         }
@@ -614,12 +1050,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scalpel is an open source data carving tool. It is not being actively maintained. ",
+            "homepage": null,
             "id": 11002722,
             "language": "Shell",
+            "license": null,
             "last_commit": "2024-03-27T20:39:48Z",
+            "open_issues": 44,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 689
+            "stars": 689,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -630,12 +1071,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An any-snarf program that processes application protocols (HTTP/FTP/...) from tcpdump or snoop files and stores session and file data",
+            "homepage": null,
             "id": 18618886,
             "language": null,
+            "license": null,
             "last_commit": "2021-08-21T15:22:51Z",
+            "open_issues": 10,
             "owner": "brendangregg",
             "repo": "Chaosreader",
-            "stars": 238
+            "stars": 238,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -646,12 +1092,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "'Packet Capture Forensic Evidence eXtractor' is a tool that finds and extracts files from packet capture files",
+            "homepage": null,
             "id": 45613928,
             "language": "Python",
+            "license": "Apache-2.0",
             "last_commit": "2020-02-13T08:42:33Z",
+            "open_issues": 2,
             "owner": "vikwin",
             "repo": "pcapfex",
-            "stars": 229
+            "stars": 229,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -662,12 +1113,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Foremost is a console program to recover files based on their headers, footers, and internal data structures. c.f., http://foremost.sourceforge.net/",
+            "homepage": null,
             "id": 7548694,
             "language": "C",
+            "license": null,
             "last_commit": "2013-01-10T21:40:05Z",
+            "open_issues": 2,
             "owner": "jonstewart",
             "repo": "foremost",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         }
@@ -686,12 +1142,17 @@
               "children": [],
               "repo_info": {
                 "archived": false,
+                "description": "USB packet capture for Windows",
+                "homepage": "http://desowin.org/usbpcap",
                 "id": 8383178,
                 "language": "C",
+                "license": null,
                 "last_commit": "2025-02-09T16:32:47Z",
+                "open_issues": 65,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1131
+                "stars": 1131,
+                "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
             }
@@ -709,12 +1170,27 @@
               "children": [],
               "repo_info": {
                 "archived": true,
+                "description": "Some set of scripts to unpack odin packets into separate files !!! Migrated to Codeberg !!!",
+                "homepage": "https://codeberg.org/KOLANICH-tools/USBPcapOdinDumper.py",
                 "id": 108296766,
                 "language": "Python",
+                "license": "Unlicense",
                 "last_commit": "2023-10-09T14:44:14Z",
+                "open_issues": 0,
                 "owner": "KOLANICH-tools",
                 "repo": "USBPcapOdinDumper.py",
-                "stars": 13
+                "stars": 13,
+                "topics": [
+                  "heimdall",
+                  "kaitai-struct",
+                  "loke",
+                  "odin",
+                  "odin3",
+                  "pcap",
+                  "samsung",
+                  "usbmon",
+                  "usbpcap"
+                ]
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
             }
@@ -728,15 +1204,20 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T01:07:54.833Z",
+    "last_updated": "2026-08-29T04:21:00.436Z",
     "original_repository_info": {
       "archived": false,
+      "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
+      "homepage": "http://caesar0301.github.io/awesome-pcaptools",
       "id": 4415789,
       "language": null,
+      "license": "CC0-1.0",
       "last_commit": "2025-09-03T07:24:40Z",
+      "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3416
+      "stars": 3416,
+      "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
     "enhanced_repository": "enhansome/enhansome-pcaptools",
