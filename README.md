@@ -2,9 +2,9 @@
 
 ## Introduction
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,122 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,405 | 🐛 105 | 📅 2026-08-21
 
-This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 501,122 | 🐛 105 | 📅 2026-08-21
+This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 501,405 | 🐛 105 | 📅 2026-08-21
 
 **License**: CC0 1.0 Universal (CC0 1.0).
 
@@ -57,7 +57,7 @@ This project does not contain any source code or files. I just want to make a li
 
 ## Traffic Capture<a name="capture"></a>
 
-* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,622 | 🐛 45 | 🌐 Java | 📅 2026-08-29: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,624 | 🐛 45 | 🌐 Java | 📅 2026-08-30: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
 
 * [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer) ⚠️ Archived: High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
@@ -65,7 +65,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [pmacct](https://github.com/pmacct/pmacct) ⭐ 1,237 | 🐛 51 | 🌐 C | 📅 2026-08-28: is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry.
 
-* [Ngrep](https://github.com/jpr5/ngrep/) ⭐ 1,020 | 🐛 1 | 🌐 C | 📅 2026-02-08: strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes TCP, UDP and ICMP across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands bpf filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
+* [Ngrep](https://github.com/jpr5/ngrep/) ⭐ 1,019 | 🐛 1 | 🌐 C | 📅 2026-02-08: strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes TCP, UDP and ICMP across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands bpf filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
 * [Netis Packet Agent](https://github.com/Netis/packet-agent) ⭐ 963 | 🐛 1 | 🌐 C | 📅 2026-07-06: It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
 
@@ -73,7 +73,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [OpenFPC](https://github.com/leonward/OpenFPC) ⭐ 73 | 🐛 10 | 🌐 Perl | 📅 2019-02-02: OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder & buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
 
-* [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) ⭐ 67 | 🐛 13 | 🌐 Java | 📅 2024-01-14: `clj-net-pcap` is a packet capturing library for Clojure. clj-net-pcap uses jNetPcap and adds convenience functionality around jNetPcap for easing the usability. A [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6903107) was published in scope of COMPSACW 2014.
+* [clj-net-pcap](https://github.com/ruedigergad/clj-net-pcap) ⭐ 68 | 🐛 13 | 🌐 Java | 📅 2024-01-14: `clj-net-pcap` is a packet capturing library for Clojure. clj-net-pcap uses jNetPcap and adds convenience functionality around jNetPcap for easing the usability. A [paper on clj-net-pcap](http://ieeexplore.ieee.org/xpl/articleDetails.jsp?tp=\&arnumber=6903107) was published in scope of COMPSACW 2014.
 
 * [Libpcap/Tcpdump](https://www.tcpdump.org/): The official site of tcpdump, a powerful command-line packet analyzer; and libpcap, a portable C/C++ library for network traffic capture.
 
@@ -91,13 +91,13 @@ This project does not contain any source code or files. I just want to make a li
 
 ## Traffic Analysis/Inspection<a name="analysis"></a>
 
-* [BruteShark](https://github.com/odedshimon/BruteShark) ⭐ 3,395 | 🐛 38 | 🌐 C# | 📅 2023-04-10: Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
+* [BruteShark](https://github.com/odedshimon/BruteShark) ⭐ 3,396 | 🐛 38 | 🌐 C# | 📅 2023-04-10: Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
-* [WinDivert](https://github.com/basil00/WinDivert) ⭐ 3,269 | 🐛 64 | 🌐 C | 📅 2023-03-15: is a Windows library for user-mode packet interception.
+* [WinDivert](https://github.com/basil00/WinDivert) ⭐ 3,271 | 🐛 64 | 🌐 C | 📅 2023-03-15: is a Windows library for user-mode packet interception.
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,133 | 🐛 62 | 🌐 C++ | 📅 2026-08-27: PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,134 | 🐛 62 | 🌐 C++ | 📅 2026-08-27: PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
 
-* [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,784 | 🐛 125 | 🌐 C | 📅 2026-08-28: is a suite of tools for traffic capture and analysis using ARP Poisoning (A form of MitM attack, only use on networks you control)
+* [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,785 | 🐛 125 | 🌐 C | 📅 2026-08-28: is a suite of tools for traffic capture and analysis using ARP Poisoning (A form of MitM attack, only use on networks you control)
 
 * [Tcpflow](https://github.com/simsong/tcpflow) ⭐ 1,776 | 🐛 74 | 🌐 C++ | 📅 2026-01-29: A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. Yet, optionally, it can isolate pcap flows per tcp flow for granularized inspection. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
 
@@ -105,13 +105,13 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Tcpreplay](https://github.com/appneta/tcpreplay) ⭐ 1,345 | 🐛 0 | 🌐 C | 📅 2026-08-15: Replays a pcap file on an interface using libnet.
 
-* [NFStream](https://github.com/nfstream/nfstream) ⭐ 1,219 | 🐛 32 | 🌐 Python | 📅 2026-08-17: is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
+* [NFStream](https://github.com/nfstream/nfstream) ⭐ 1,219 | 🐛 31 | 🌐 Python | 📅 2026-08-17: is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
 * [DPKT](https://github.com/kbandla/dpkt) ⭐ 1,160 | 🐛 95 | 🌐 Python | 📅 2024-07-26: Python packet creation/parsing library.
 
 * [Libnet](https://github.com/libnet/libnet) ⭐ 957 | 🐛 10 | 🌐 C | 📅 2025-02-19: is a collection of routines to help with the construction and handling of network packets. It provides a portable framework for low-level network packet shaping, handling and injection. Libnet features portable packet creation interfaces at the IP layer and link layer, as well as a host of supplementary and complementary functionality. Using libnet, quick and simple packet assembly applications can be whipped up with little effort.
 
-* [nfdump](https://github.com/phaag/nfdump) ⭐ 914 | 🐛 4 | 🌐 C | 📅 2026-08-29: is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
+* [nfdump](https://github.com/phaag/nfdump) ⭐ 914 | 🐛 4 | 🌐 C | 📅 2026-08-30: is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
 
 * [CapTipper](https://github.com/omriher/CapTipper) ⭐ 726 | 🐛 15 | 🌐 Python | 📅 2023-03-16: Malicious HTTP traffic explorer
 
@@ -289,8 +289,8 @@ This project does not contain any source code or files. I just want to make a li
 
 Thank you all contributors ❤
 
-[![awesome-pcaptools contributors](https://contrib.rocks/image?repo=caesar0301/awesome-pcaptools "awesome-pcaptools contributors")](https://github.com/caesar0301/awesome-pcaptools/graphs/contributors) ⭐ 3,416 | 🐛 14 | 📅 2025-09-03
+[![awesome-pcaptools contributors](https://contrib.rocks/image?repo=caesar0301/awesome-pcaptools "awesome-pcaptools contributors")](https://github.com/caesar0301/awesome-pcaptools/graphs/contributors) ⭐ 3,417 | 🐛 14 | 📅 2025-09-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

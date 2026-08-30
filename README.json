@@ -15,11 +15,11 @@
             "id": 232157758,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-29T16:16:50Z",
+            "last_commit": "2026-08-30T11:08:40Z",
             "open_issues": 45,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4622,
+            "stars": 4624,
             "topics": [
               "android",
               "capture-traffic",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1020,
+            "stars": 1019,
             "topics": [
               "grepping",
               "sniffer"
@@ -277,7 +277,7 @@
             "open_issues": 13,
             "owner": "ruedigergad",
             "repo": "clj-net-pcap",
-            "stars": 67,
+            "stars": 68,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3395,
+            "stars": 3396,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 64,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3269,
+            "stars": 3271,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -372,7 +372,7 @@
             "open_issues": 62,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3133,
+            "stars": 3134,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2784,
+            "stars": 2785,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -512,7 +512,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-08-17T15:03:00Z",
-            "open_issues": 32,
+            "open_issues": 31,
             "owner": "nfstream",
             "repo": "nfstream",
             "stars": 1219,
@@ -611,7 +611,7 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-29T12:26:41Z",
+            "last_commit": "2026-08-30T16:38:35Z",
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T19:57:37.369Z",
+    "last_updated": "2026-08-30T19:59:21.829Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3416,
+      "stars": 3417,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
