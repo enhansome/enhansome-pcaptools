@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4624,
+            "stars": 4627,
             "topics": [
               "android",
               "capture-traffic",
@@ -125,7 +125,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-08-28T18:50:05Z",
-            "open_issues": 51,
+            "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1237,
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-08-27T17:13:40Z",
-            "open_issues": 62,
+            "last_commit": "2026-08-31T14:33:36Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3134,
@@ -482,7 +482,7 @@
             "open_issues": 0,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1345,
+            "stars": 1346,
             "topics": [
               "c",
               "flow",
@@ -611,7 +611,7 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-30T16:38:35Z",
+            "last_commit": "2026-08-31T12:46:43Z",
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T19:59:21.829Z",
+    "last_updated": "2026-08-31T22:01:01.441Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3417,
+      "stars": 3418,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
