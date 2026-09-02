@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4637,
+            "stars": 4642,
             "topics": [
               "android",
               "capture-traffic",
@@ -343,7 +343,7 @@
             "open_issues": 64,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3273,
+            "stars": 3276,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-01T11:38:41Z",
-            "open_issues": 60,
+            "last_commit": "2026-09-02T08:23:10Z",
+            "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3133,
@@ -410,8 +410,8 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-01T16:50:02Z",
-            "open_issues": 127,
+            "last_commit": "2026-09-01T21:10:20Z",
+            "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2785,
@@ -461,7 +461,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1368,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -515,7 +515,7 @@
             "open_issues": 31,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1219,
+            "stars": 1218,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -611,8 +611,8 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-31T12:46:43Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-02T14:27:15Z",
+            "open_issues": 3,
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 915,
@@ -971,6 +971,32 @@
         },
         {
           "node_type": "item",
+          "title": "pcaptoparquet",
+          "description": "pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "description": "A package for converting PCAP files to parquet format.",
+            "homepage": null,
+            "id": 938052095,
+            "language": "Python",
+            "license": "BSD-3-Clause",
+            "last_commit": "2025-11-26T15:46:43Z",
+            "open_issues": 0,
+            "owner": "nokia",
+            "repo": "pcaptoparquet",
+            "stars": 7,
+            "topics": [
+              "csv",
+              "json",
+              "parquet",
+              "pcap"
+            ]
+          },
+          "first_seen": "2026-08-29T01:07:54.833Z"
+        },
+        {
+          "node_type": "item",
           "title": "Tcpsplit",
           "description": "A tool to break a single libpcap packet trace into some number of sub- traces, breaking the trace along TCP connection boundaries so that a TCP connection doesn't end up split across two sub-traces. This is useful for making large trace files tractable for in- depth analysis and for subsetting a trace for developing analysis on only part of a trace.",
           "children": [],
@@ -987,32 +1013,6 @@
             "repo": "tcpsplit",
             "stars": 7,
             "topics": []
-          },
-          "first_seen": "2026-08-29T01:07:54.833Z"
-        },
-        {
-          "node_type": "item",
-          "title": "pcaptoparquet",
-          "description": "pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "description": "A package for converting PCAP files to parquet format.",
-            "homepage": null,
-            "id": 938052095,
-            "language": "Python",
-            "license": "BSD-3-Clause",
-            "last_commit": "2025-11-26T15:46:43Z",
-            "open_issues": 0,
-            "owner": "nokia",
-            "repo": "pcaptoparquet",
-            "stars": 6,
-            "topics": [
-              "csv",
-              "json",
-              "parquet",
-              "pcap"
-            ]
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
         },
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-01T20:07:33.845Z",
+    "last_updated": "2026-09-02T20:03:17.019Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
