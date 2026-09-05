@@ -19,7 +19,7 @@
             "open_issues": 46,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4656,
+            "stars": 4662,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,8 +124,8 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-03T18:24:04Z",
-            "open_issues": 50,
+            "last_commit": "2026-09-04T23:46:46Z",
+            "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1239,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3397,
+            "stars": 3396,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 64,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3279,
+            "stars": 3283,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,7 +368,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-04T17:33:09Z",
+            "last_commit": "2026-09-05T11:03:14Z",
             "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -411,7 +411,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-04T18:27:03Z",
-            "open_issues": 131,
+            "open_issues": 130,
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2785,
@@ -788,7 +788,7 @@
             "open_issues": 17,
             "owner": "andrewf",
             "repo": "pcap2har",
-            "stars": 244,
+            "stars": 243,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 65,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1130,
+                "stars": 1131,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-04T19:49:17.918Z",
+    "last_updated": "2026-09-05T19:21:34.409Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
