@@ -15,11 +15,11 @@
             "id": 232157758,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-30T11:08:40Z",
+            "last_commit": "2026-09-06T08:15:27Z",
             "open_issues": 46,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4662,
+            "stars": 4668,
             "topics": [
               "android",
               "capture-traffic",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1479,
+            "stars": 1480,
             "topics": [
               "analysis",
               "c-sharp",
@@ -194,7 +194,7 @@
             "open_issues": 1,
             "owner": "Netis",
             "repo": "cloud-probe",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "capture",
               "cloud",
@@ -224,8 +224,8 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-08-08T22:55:50Z",
-            "open_issues": 3,
+            "last_commit": "2026-09-06T10:58:04Z",
+            "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
             "stars": 216,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3396,
+            "stars": 3398,
             "topics": [
               "bruteforce",
               "cyber",
@@ -372,7 +372,7 @@
             "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3133,
+            "stars": 3134,
             "topics": [
               "cpp",
               "dpdk",
@@ -482,7 +482,7 @@
             "open_issues": 0,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1346,
+            "stars": 1347,
             "topics": [
               "c",
               "flow",
@@ -515,7 +515,7 @@
             "open_issues": 31,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1220,
+            "stars": 1221,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
-            "open_issues": 95,
+            "open_issues": 94,
             "owner": "kbandla",
             "repo": "dpkt",
             "stars": 1161,
@@ -577,7 +577,7 @@
             "open_issues": 10,
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 957,
+            "stars": 958,
             "topics": [
               "arp",
               "bgp",
@@ -611,11 +611,11 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-04T16:53:04Z",
+            "last_commit": "2026-09-06T15:04:56Z",
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 915,
+            "stars": 916,
             "topics": [
               "ipfix",
               "netflow",
@@ -714,7 +714,7 @@
             "open_issues": 4,
             "owner": "pellegre",
             "repo": "libcrafter",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "libpcap",
               "network-programming",
@@ -746,7 +746,7 @@
             "open_issues": 34,
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 306,
+            "stars": 307,
             "topics": [
               "ebpf",
               "linux",
@@ -1179,7 +1179,7 @@
                 "open_issues": 0,
                 "owner": "KOLANICH-tools",
                 "repo": "USBPcapOdinDumper.py",
-                "stars": 13,
+                "stars": 14,
                 "topics": [
                   "heimdall",
                   "kaitai-struct",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-05T19:21:34.409Z",
+    "last_updated": "2026-09-06T19:27:13.182Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3419,
+      "stars": 3420,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
