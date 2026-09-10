@@ -2,9 +2,9 @@
 
 ## Introduction
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,509 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,792 | 🐛 106 | 📅 2026-09-02
 
-This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 504,509 | 🐛 106 | 📅 2026-09-02
+This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 504,792 | 🐛 106 | 📅 2026-09-02
 
 **License**: CC0 1.0 Universal (CC0 1.0).
 
@@ -57,7 +57,7 @@ This project does not contain any source code or files. I just want to make a li
 
 ## Traffic Capture<a name="capture"></a>
 
-* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,688 | 🐛 42 | 🌐 Java | 📅 2026-09-09: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,694 | 🐛 42 | 🌐 Java | 📅 2026-09-09: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
 
 * [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer) ⚠️ Archived: High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
@@ -93,9 +93,9 @@ This project does not contain any source code or files. I just want to make a li
 
 * [BruteShark](https://github.com/odedshimon/BruteShark) ⭐ 3,395 | 🐛 38 | 🌐 C# | 📅 2023-04-10: Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
-* [WinDivert](https://github.com/basil00/WinDivert) ⭐ 3,287 | 🐛 64 | 🌐 C | 📅 2023-03-15: is a Windows library for user-mode packet interception.
+* [WinDivert](https://github.com/basil00/WinDivert) ⭐ 3,288 | 🐛 64 | 🌐 C | 📅 2023-03-15: is a Windows library for user-mode packet interception.
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,134 | 🐛 57 | 🌐 C++ | 📅 2026-09-09: PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,135 | 🐛 60 | 🌐 C++ | 📅 2026-09-10: PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
 
 * [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,785 | 🐛 130 | 🌐 C | 📅 2026-09-08: is a suite of tools for traffic capture and analysis using ARP Poisoning (A form of MitM attack, only use on networks you control)
 
@@ -111,7 +111,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Libnet](https://github.com/libnet/libnet) ⭐ 958 | 🐛 10 | 🌐 C | 📅 2025-02-19: is a collection of routines to help with the construction and handling of network packets. It provides a portable framework for low-level network packet shaping, handling and injection. Libnet features portable packet creation interfaces at the IP layer and link layer, as well as a host of supplementary and complementary functionality. Using libnet, quick and simple packet assembly applications can be whipped up with little effort.
 
-* [nfdump](https://github.com/phaag/nfdump) ⭐ 917 | 🐛 4 | 🌐 C | 📅 2026-09-09: is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
+* [nfdump](https://github.com/phaag/nfdump) ⭐ 917 | 🐛 4 | 🌐 C | 📅 2026-09-10: is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
 
 * [CapTipper](https://github.com/omriher/CapTipper) ⭐ 726 | 🐛 15 | 🌐 Python | 📅 2023-03-16: Malicious HTTP traffic explorer
 
@@ -141,7 +141,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Tcpslice](https://github.com/pyke369/tcpsplice) ⭐ 8 | 🐛 2 | 🌐 Go | 📅 2024-05-06: Tcpslice is a tool for extracting portions of packet trace files generated using tcpdump's -w flag. It can combine multiple trace files, and/or extract portions of one or more traces based on time.
 
-* [pcaptoparquet](https://github.com/nokia/pcaptoparquet) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-08: pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.
+* [pcaptoparquet](https://github.com/nokia/pcaptoparquet) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-09-10: pcaptoparquet is a Python package designed for converting PCAP or PCAPNG files to structured data formats, primarily Apache Parquet. The tool focuses on network traffic analysis by extracting, decoding, and transforming packet data into queryable datasets suitable for analysis and visualization. The tool supports both command-line and programmatic interfaces, enabling integration into various network analysis workflows.
 
 * [Tcpsplit](https://github.com/pmcgleenon/tcpsplit) ⭐ 7 | 🐛 0 | 🌐 C | 📅 2016-08-09: A tool to break a single libpcap packet trace into some number of sub- traces, breaking the trace along TCP connection boundaries so that a TCP connection doesn't end up split across two sub-traces. This is useful for making large trace files tractable for in- depth analysis and for subsetting a trace for developing analysis on only part of a trace.
 
@@ -293,4 +293,4 @@ Thank you all contributors ❤
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-09._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-10._
