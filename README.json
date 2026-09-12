@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4699,
+            "stars": 4706,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1929,
+            "stars": 1928,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -87,7 +87,7 @@
             "id": 36370093,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-09T16:58:07Z",
+            "last_commit": "2026-09-12T10:44:09Z",
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-08T22:55:58Z",
+            "last_commit": "2026-09-12T10:27:03Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3395,
+            "stars": 3396,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 64,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3289,
+            "stars": 3290,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-11T09:43:24Z",
-            "open_issues": 56,
+            "last_commit": "2026-09-12T09:45:40Z",
+            "open_issues": 57,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3135,
+            "stars": 3136,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 128,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2785,
+            "stars": 2786,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -615,7 +615,7 @@
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 919,
+            "stars": 920,
             "topics": [
               "ipfix",
               "netflow",
@@ -710,8 +710,8 @@
             "id": 6434669,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-11T18:52:30Z",
-            "open_issues": 5,
+            "last_commit": "2026-09-12T13:58:26Z",
+            "open_issues": 4,
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 312,
@@ -742,8 +742,8 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-11T15:03:11Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-12T12:03:44Z",
+            "open_issues": 33,
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 307,
@@ -1059,7 +1059,7 @@
             "open_issues": 44,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 688,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T19:58:25.132Z",
+    "last_updated": "2026-09-12T19:36:32.137Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
