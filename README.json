@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4706,
+            "stars": 4721,
             "topics": [
               "android",
               "capture-traffic",
@@ -228,7 +228,7 @@
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
-            "stars": 217,
+            "stars": 218,
             "topics": [
               "ipfix",
               "netflow",
@@ -343,7 +343,7 @@
             "open_issues": 64,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3290,
+            "stars": 3294,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -414,7 +414,7 @@
             "open_issues": 128,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2786,
+            "stars": 2787,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
-            "open_issues": 94,
+            "open_issues": 97,
             "owner": "kbandla",
             "repo": "dpkt",
             "stars": 1162,
@@ -710,8 +710,8 @@
             "id": 6434669,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-09-12T13:58:26Z",
-            "open_issues": 4,
+            "last_commit": "2026-09-13T18:56:26Z",
+            "open_issues": 6,
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 312,
@@ -742,8 +742,8 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-12T12:03:44Z",
-            "open_issues": 33,
+            "last_commit": "2026-09-13T01:23:33Z",
+            "open_issues": 35,
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 307,
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-12T19:36:32.137Z",
+    "last_updated": "2026-09-13T19:41:47.417Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
