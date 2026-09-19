@@ -2,9 +2,9 @@
 
 ## Introduction
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,478 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,832 | 🐛 106 | 📅 2026-09-02
 
-This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 507,478 | 🐛 106 | 📅 2026-09-02
+This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 507,832 | 🐛 106 | 📅 2026-09-02
 
 **License**: CC0 1.0 Universal (CC0 1.0).
 
@@ -57,13 +57,13 @@ This project does not contain any source code or files. I just want to make a li
 
 ## Traffic Capture<a name="capture"></a>
 
-* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,748 | 🐛 47 | 🌐 Java | 📅 2026-09-16: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,755 | 🐛 45 | 🌐 Java | 📅 2026-09-19: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
 
 * [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer) ⚠️ Archived: High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
 * [sharppcap](https://github.com/dotpcap/sharppcap) ⭐ 1,480 | 🐛 29 | 🌐 C# | 📅 2026-09-16: Fully managed, cross platform (Windows, Mac, Linux) .NET library for capturing packets from live and file based devices. A realiable and robust wrapper of libpcap and npcap.
 
-* [pmacct](https://github.com/pmacct/pmacct) ⭐ 1,240 | 🐛 49 | 🌐 C | 📅 2026-09-17: is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry.
+* [pmacct](https://github.com/pmacct/pmacct) ⭐ 1,240 | 🐛 49 | 🌐 C | 📅 2026-09-18: is a small set of multi-purpose passive network monitoring tools. It can account, classify, aggregate, replicate and export forwarding-plane data, ie. IPv4 and IPv6 traffic; collect and correlate control-plane data via BGP and BMP; collect and correlate RPKI data; collect infrastructure data via Streaming Telemetry.
 
 * [Ngrep](https://github.com/jpr5/ngrep/) ⭐ 1,021 | 🐛 1 | 🌐 C | 📅 2026-02-08: strives to provide most of GNU grep's common features, applying them to the network layer. ngrep is a pcap-aware tool that will allow you to specify extended regular or hexadecimal expressions to match against data payloads of packets. It currently recognizes TCP, UDP and ICMP across Ethernet, PPP, SLIP, FDDI, Token Ring and null interfaces, and understands bpf filter logic in the same fashion as more common packet sniffing tools, such as tcpdump and snoop. [Screenshot](https://www.cyberciti.biz/media/new/cms/2012/12/ngrep.png)
 
@@ -93,13 +93,13 @@ This project does not contain any source code or files. I just want to make a li
 
 * [BruteShark](https://github.com/odedshimon/BruteShark) ⭐ 3,396 | 🐛 38 | 🌐 C# | 📅 2023-04-10: Is an open-source, cross-platform network forensic analysis tool with many features. It includes: password extracting,  displaying a visual network map, reconstruct TCP sessions, extract hashes of encrypted passwords and even convert them to a Hashcat format in order to perform an offline Brute Force attack.
 
-* [WinDivert](https://github.com/basil00/WinDivert) ⭐ 3,294 | 🐛 65 | 🌐 C | 📅 2023-03-15: is a Windows library for user-mode packet interception.
+* [WinDivert](https://github.com/basil00/WinDivert) ⭐ 3,295 | 🐛 65 | 🌐 C | 📅 2023-03-15: is a Windows library for user-mode packet interception.
 
-* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,139 | 🐛 61 | 🌐 C++ | 📅 2026-09-18: PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
+* [PcapPlusPlus](https://github.com/seladb/PcapPlusPlus) ⭐ 3,139 | 🐛 62 | 🌐 C++ | 📅 2026-09-19: PcapPlusPlus a multiplatform C++ network sniffing and packet parsing and manipulation framework. It's meant to be lightweight, efficient and easy to use. It's a C++ wrapper for popular engines like libpcap, WinPcap, DPDK and PF\_RING. It also contains parsing and edit capabilities for many protocols including Ethernet, IPv4, IPv6, ARP, VLAN, MPLS, PPPoE, GRE, TCP, UDP, ICMP, DNS as well as layer 7 protocols like HTTP and SSL/TLS
 
-* [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,788 | 🐛 128 | 🌐 C | 📅 2026-09-11: is a suite of tools for traffic capture and analysis using ARP Poisoning (A form of MitM attack, only use on networks you control)
+* [Ettercap](https://github.com/Ettercap/ettercap) ⭐ 2,788 | 🐛 129 | 🌐 C | 📅 2026-09-11: is a suite of tools for traffic capture and analysis using ARP Poisoning (A form of MitM attack, only use on networks you control)
 
-* [Tcpflow](https://github.com/simsong/tcpflow) ⭐ 1,776 | 🐛 74 | 🌐 C++ | 📅 2026-01-29: A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. Yet, optionally, it can isolate pcap flows per tcp flow for granularized inspection. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
+* [Tcpflow](https://github.com/simsong/tcpflow) ⭐ 1,777 | 🐛 74 | 🌐 C++ | 📅 2026-01-29: A program that captures data transmitted as part of TCP connections (flows), and stores the data in a way that is convenient for protocol analysis or debugging. A program like 'tcpdump' shows a summary of packets seen on the wire, but usually doesn't store the data that's actually being transmitted. In contrast, tcpflow reconstructs the actual data streams and stores each flow in a separate file for later analysis. Yet, optionally, it can isolate pcap flows per tcp flow for granularized inspection. [Original link](http://www.circlemud.org/jelson/software/tcpflow/).
 
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived: joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
 
@@ -111,7 +111,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Libnet](https://github.com/libnet/libnet) ⭐ 956 | 🐛 10 | 🌐 C | 📅 2025-02-19: is a collection of routines to help with the construction and handling of network packets. It provides a portable framework for low-level network packet shaping, handling and injection. Libnet features portable packet creation interfaces at the IP layer and link layer, as well as a host of supplementary and complementary functionality. Using libnet, quick and simple packet assembly applications can be whipped up with little effort.
 
-* [nfdump](https://github.com/phaag/nfdump) ⭐ 920 | 🐛 5 | 🌐 C | 📅 2026-09-17: is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
+* [nfdump](https://github.com/phaag/nfdump) ⭐ 920 | 🐛 4 | 🌐 C | 📅 2026-09-19: is a powerful suite of tools for collecting, processing, and analysing flow data from network devices.
 
 * [CapTipper](https://github.com/omriher/CapTipper) ⭐ 726 | 🐛 15 | 🌐 Python | 📅 2023-03-16: Malicious HTTP traffic explorer
 
@@ -121,7 +121,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Libcrafter](https://github.com/pellegre/libcrafter) ⭐ 312 | 🐛 1 | 🌐 Rust | 📅 2026-09-16: is a high level library for C++ designed to make easier the creation and decoding of network packets. It is able to craft or decode packets of most common network protocols, send them on the wire, capture them and match requests and replies.
 
-* [packemon](https://github.com/ddddddO/packemon) ⭐ 307 | 🐛 37 | 🌐 Go | 📅 2026-09-18: Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
+* [packemon](https://github.com/ddddddO/packemon) ⭐ 307 | 🐛 36 | 🌐 Go | 📅 2026-09-19: Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 
 * [Pcap2har](https://github.com/andrewf/pcap2har) ⭐ 243 | 🐛 17 | 🌐 Python | 📅 2018-06-24: A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
 
@@ -236,7 +236,7 @@ This project does not contain any source code or files. I just want to make a li
 
 ## File Extraction<a name="fileextraction"></a>
 
-* [scalpel](https://github.com/sleuthkit/scalpel) ⭐ 689 | 🐛 44 | 🌐 Shell | 📅 2024-03-27: Scalpel is an open source data carving tool.
+* [scalpel](https://github.com/sleuthkit/scalpel) ⭐ 690 | 🐛 44 | 🌐 Shell | 📅 2024-03-27: Scalpel is an open source data carving tool.
 
 * [Chaosreader](https://github.com/brendangregg/Chaosreader) ⭐ 238 | 🐛 10 | 📅 2021-08-21: A freeware tool to trace TCP/UDP/... sessions and fetch application data from snoop or tcpdump logs. This is a type of "any-snarf" program, as it will fetch telnet sessions, FTP files, HTTP transfers (HTML, GIF, JPEG, ...), SMTP emails, ... from the captured data inside network traffic logs. A html index file is created that links to all the session details, including realtime replay programs for telnet, rlogin, IRC, X11 and VNC sessions; and reports such as image reports and HTTP GET/POST content reports.
 
@@ -289,8 +289,8 @@ This project does not contain any source code or files. I just want to make a li
 
 Thank you all contributors ❤
 
-[![awesome-pcaptools contributors](https://contrib.rocks/image?repo=caesar0301/awesome-pcaptools "awesome-pcaptools contributors")](https://github.com/caesar0301/awesome-pcaptools/graphs/contributors) ⭐ 3,425 | 🐛 14 | 📅 2025-09-03
+[![awesome-pcaptools contributors](https://contrib.rocks/image?repo=caesar0301/awesome-pcaptools "awesome-pcaptools contributors")](https://github.com/caesar0301/awesome-pcaptools/graphs/contributors) ⭐ 3,426 | 🐛 14 | 📅 2025-09-03
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
