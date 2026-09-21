@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4780,
+            "stars": 4789,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1930,
+            "stars": 1931,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1021,
+            "stars": 1023,
             "topics": [
               "grepping",
               "sniffer"
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3294,
+            "stars": 3293,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-20T09:43:51Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-21T07:55:02Z",
+            "open_issues": 63,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3140,
+            "stars": 3141,
             "topics": [
               "cpp",
               "dpdk",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T19:40:58.881Z",
+    "last_updated": "2026-09-21T21:12:34.917Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
