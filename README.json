@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4789,
+            "stars": 4798,
             "topics": [
               "android",
               "capture-traffic",
@@ -128,7 +128,7 @@
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1241,
+            "stars": 1242,
             "topics": [
               "avro",
               "bgp",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "grepping",
               "sniffer"
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3293,
+            "stars": 3294,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -369,10 +369,10 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-09-21T07:55:02Z",
-            "open_issues": 63,
+            "open_issues": 64,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3141,
+            "stars": 3142,
             "topics": [
               "cpp",
               "dpdk",
@@ -461,7 +461,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -479,7 +479,7 @@
             "language": "C",
             "license": "GPL-3.0",
             "last_commit": "2026-08-15T16:15:36Z",
-            "open_issues": 1,
+            "open_issues": 2,
             "owner": "appneta",
             "repo": "tcpreplay",
             "stars": 1349,
@@ -515,7 +515,7 @@
             "open_issues": 32,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1223,
+            "stars": 1224,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -577,7 +577,7 @@
             "open_issues": 10,
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 956,
+            "stars": 957,
             "topics": [
               "arp",
               "bgp",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T21:12:34.917Z",
+    "last_updated": "2026-09-22T20:26:33.016Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
