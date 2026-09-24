@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4810,
+            "stars": 4812,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-23T19:10:55Z",
+            "last_commit": "2026-09-24T17:10:31Z",
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1242,
+            "stars": 1243,
             "topics": [
               "avro",
               "bgp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-22T21:54:34Z",
+            "last_commit": "2026-09-24T11:44:47Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3295,
+            "stars": 3296,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-21T07:55:02Z",
-            "open_issues": 65,
+            "last_commit": "2026-09-24T09:42:55Z",
+            "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3143,
@@ -414,7 +414,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2791,
+            "stars": 2788,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1777,
+            "stars": 1778,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -746,7 +746,7 @@
             "open_issues": 36,
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "ebpf",
               "linux",
@@ -981,7 +981,7 @@
             "id": 938052095,
             "language": "Python",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-09-23T19:34:00Z",
+            "last_commit": "2026-09-24T19:06:25Z",
             "open_issues": 0,
             "owner": "nokia",
             "repo": "pcaptoparquet",
@@ -1080,7 +1080,7 @@
             "open_issues": 10,
             "owner": "brendangregg",
             "repo": "Chaosreader",
-            "stars": 238,
+            "stars": 239,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-23T20:39:00.565Z",
+    "last_updated": "2026-09-24T20:41:51.313Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3426,
+      "stars": 3427,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
