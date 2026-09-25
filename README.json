@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4812,
+            "stars": 4823,
             "topics": [
               "android",
               "capture-traffic",
@@ -128,7 +128,7 @@
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1243,
+            "stars": 1244,
             "topics": [
               "avro",
               "bgp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T11:44:47Z",
+            "last_commit": "2026-09-25T13:15:19Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3397,
+            "stars": 3398,
             "topics": [
               "bruteforce",
               "cyber",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-24T09:42:55Z",
-            "open_issues": 58,
+            "last_commit": "2026-09-25T07:38:00Z",
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3143,
+            "stars": 3144,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2788,
+            "stars": 2791,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -515,7 +515,7 @@
             "open_issues": 32,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1221,
+            "stars": 1222,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -615,7 +615,7 @@
             "open_issues": 6,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 921,
+            "stars": 923,
             "topics": [
               "ipfix",
               "netflow",
@@ -742,8 +742,8 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-09-19T14:13:05Z",
-            "open_issues": 36,
+            "last_commit": "2026-09-25T15:03:05Z",
+            "open_issues": 37,
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 308,
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T20:41:51.313Z",
+    "last_updated": "2026-09-25T20:41:44.301Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3427,
+      "stars": 3429,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
