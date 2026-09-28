@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-09-26T08:14:11Z",
-            "open_issues": 43,
+            "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4828,
+            "stars": 4837,
             "topics": [
               "android",
               "capture-traffic",
@@ -87,7 +87,7 @@
             "id": 36370093,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-09-16T00:10:48Z",
+            "last_commit": "2026-09-28T01:52:36Z",
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
@@ -124,7 +124,7 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-24T17:10:31Z",
+            "last_commit": "2026-09-28T18:08:31Z",
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
@@ -191,7 +191,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-17T04:32:13Z",
-            "open_issues": 3,
+            "open_issues": 12,
             "owner": "Netis",
             "repo": "cloud-probe",
             "stars": 963,
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-27T12:21:07Z",
+            "last_commit": "2026-09-28T21:17:56Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3296,
+            "stars": 3297,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-27T19:38:46Z",
-            "open_issues": 57,
+            "last_commit": "2026-09-28T08:19:58Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3144,
@@ -414,7 +414,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2791,
+            "stars": 2792,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -461,7 +461,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1366,
+            "stars": 1367,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-27T20:21:02.168Z",
+    "last_updated": "2026-09-28T22:37:32.398Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3429,
+      "stars": 3430,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
