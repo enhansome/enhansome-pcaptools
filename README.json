@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4848,
+            "stars": 4853,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T13:17:57Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-01T09:57:27Z",
+            "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1246,
+            "stars": 1247,
             "topics": [
               "avro",
               "bgp",
@@ -191,7 +191,7 @@
             "language": "C",
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-30T10:03:12Z",
-            "open_issues": 15,
+            "open_issues": 16,
             "owner": "Netis",
             "repo": "cloud-probe",
             "stars": 963,
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3298,
+            "stars": 3301,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-09-30T07:02:08Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-01T11:36:49Z",
+            "open_issues": 63,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3145,
@@ -414,7 +414,7 @@
             "open_issues": 122,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2791,
+            "stars": 2792,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -611,8 +611,8 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-30T07:48:47Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-01T09:54:17Z",
+            "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 922,
@@ -983,7 +983,7 @@
             "license": "BSD-3-Clause",
             "last_commit": "2026-09-24T19:06:25Z",
             "open_issues": 0,
-            "owner": "nokia",
+            "owner": "nokia-steward",
             "repo": "pcaptoparquet",
             "stars": 7,
             "topics": [
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-30T21:31:24.174Z",
+    "last_updated": "2026-10-01T21:57:52.781Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
