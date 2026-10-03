@@ -2,9 +2,9 @@
 
 ## Introduction
 
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,701 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
-This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 513,701 | 🐛 106 | 📅 2026-09-02
+This project does not contain any source code or files. I just want to make a list of tools to process pcap files in research of network traffic. For more awesome lists, see <https://github.com/sindresorhus/awesome> ⭐ 513,797 | 🐛 106 | 📅 2026-09-02
 
 **License**: CC0 1.0 Universal (CC0 1.0).
 
@@ -57,7 +57,7 @@ This project does not contain any source code or files. I just want to make a li
 
 ## Traffic Capture<a name="capture"></a>
 
-* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,855 | 🐛 42 | 🌐 Java | 📅 2026-09-26: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
+* [PCAPdroid](https://github.com/emanuele-f/PCAPdroid) ⭐ 4,857 | 🐛 42 | 🌐 Java | 📅 2026-09-26: PCAPdroid is an Android app which lets you monitor and export the network traffic of your device without root. Traffic can be dumped in the PCAP format to be analyzed with popular tools like Wireshark, even in real time. The built-in traffic monitor lets you detect suspicious connections made by user and system apps.
 
 * [Deepfence PacketStreamer](https://github.com/deepfence/PacketStreamer) ⚠️ Archived: High-performance remote packet capture and collection tool, distributed tcpdump for cloud native environments.
 
@@ -69,7 +69,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Netis Packet Agent](https://github.com/Netis/packet-agent) ⭐ 963 | 🐛 23 | 🌐 C | 📅 2026-10-02: It is a remote data capture utility through GRE tunnel, which makes you easily capture packets from an NIC interface, encapsulate them with GRE and send them to a remote machine for monitoring and analysis.
 
-* [softflowd](https://github.com/irino/softflowd) ⭐ 218 | 🐛 1 | 🌐 C++ | 📅 2026-09-29: is a flow-based network monitor, that listens promiscously to a network interface using libpcap and exports NetFlow data.
+* [softflowd](https://github.com/irino/softflowd) ⭐ 218 | 🐛 1 | 🌐 C++ | 📅 2026-10-03: is a flow-based network monitor, that listens promiscously to a network interface using libpcap and exports NetFlow data.
 
 * [OpenFPC](https://github.com/leonward/OpenFPC) ⭐ 73 | 🐛 10 | 🌐 Perl | 📅 2019-02-02: OpenFPC is a set of scripts that combine to provide a lightweight full-packet network traffic recorder & buffering tool. Its design goal is to allow non-expert users to deploy a distributed network traffic recorder on COTS hardware while integrating into existing alert and log tools.
 
@@ -103,7 +103,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Joy](https://github.com/cisco/joy) ⚠️ Archived: joy is a traffic analysis and parsing tool that was developed. In part to assist in classifying encrypted traffic streams, such as HTTPS traffic. It is able to parse pcap files into usable json files that contain details on the capture statistics and features.
 
-* [Tcpreplay](https://github.com/appneta/tcpreplay) ⭐ 1,350 | 🐛 5 | 🌐 C | 📅 2026-08-15: Replays a pcap file on an interface using libnet.
+* [Tcpreplay](https://github.com/appneta/tcpreplay) ⭐ 1,351 | 🐛 5 | 🌐 C | 📅 2026-08-15: Replays a pcap file on an interface using libnet.
 
 * [NFStream](https://github.com/nfstream/nfstream) ⭐ 1,222 | 🐛 32 | 🌐 Python | 📅 2026-09-14: is a Python framework providing fast, flexible, and expressive data structures designed to make working with online or offline network data both easy and intuitive. It aims to be the fundamental high-level building block for doing practical, real world network data analysis in Python. Additionally, it has the broader goal of becoming a common network data analytics framework for researchers providing data reproducibility across experiments.
 
@@ -121,7 +121,7 @@ This project does not contain any source code or files. I just want to make a li
 
 * [Libcrafter](https://github.com/pellegre/libcrafter) ⭐ 312 | 🐛 3 | 🌐 Rust | 📅 2026-09-20: is a high level library for C++ designed to make easier the creation and decoding of network packets. It is able to craft or decode packets of most common network protocols, send them on the wire, capture them and match requests and replies.
 
-* [packemon](https://github.com/ddddddO/packemon) ⭐ 308 | 🐛 37 | 🌐 Go | 📅 2026-10-02: Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
+* [packemon](https://github.com/ddddddO/packemon) ⭐ 308 | 🐛 37 | 🌐 Go | 📅 2026-10-03: Packet monster (っ‘-’)╮=͟͟͞͞◒ ヽ( '-'ヽ) TUI tool for sending packets of arbitrary input and monitoring packets on any network interfaces (default: eth0).
 
 * [Pcap2har](https://github.com/andrewf/pcap2har) ⭐ 243 | 🐛 17 | 🌐 Python | 📅 2018-06-24: A program to convert .pcap network capture files to HTTP Archive files using library dpkt.
 
@@ -289,8 +289,8 @@ This project does not contain any source code or files. I just want to make a li
 
 Thank you all contributors ❤
 
-[![awesome-pcaptools contributors](https://contrib.rocks/image?repo=caesar0301/awesome-pcaptools "awesome-pcaptools contributors")](https://github.com/caesar0301/awesome-pcaptools/graphs/contributors) ⭐ 3,429 | 🐛 15 | 📅 2025-09-03
+[![awesome-pcaptools contributors](https://contrib.rocks/image?repo=caesar0301/awesome-pcaptools "awesome-pcaptools contributors")](https://github.com/caesar0301/awesome-pcaptools/graphs/contributors)
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

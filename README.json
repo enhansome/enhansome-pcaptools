@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4855,
+            "stars": 4857,
             "topics": [
               "android",
               "capture-traffic",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-09-29T11:02:06Z",
+            "last_commit": "2026-10-03T02:13:32Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -482,7 +482,7 @@
             "open_issues": 5,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1350,
+            "stars": 1351,
             "topics": [
               "c",
               "flow",
@@ -742,7 +742,7 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-02T15:03:06Z",
+            "last_commit": "2026-10-03T02:25:13Z",
             "open_issues": 37,
             "owner": "ddddddO",
             "repo": "packemon",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T21:25:39.693Z",
+    "last_updated": "2026-10-03T05:00:00.510Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
