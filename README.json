@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4861,
+            "stars": 4863,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1932,
+            "stars": 1931,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -124,7 +124,7 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-02T14:07:38Z",
+            "last_commit": "2026-10-05T15:03:02Z",
             "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T09:23:09Z",
+            "last_commit": "2026-10-05T20:50:43Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3400,
+            "stars": 3401,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3303,
+            "stars": 3304,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -369,7 +369,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-10-04T19:29:28Z",
-            "open_issues": 61,
+            "open_issues": 63,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3144,
@@ -414,7 +414,7 @@
             "open_issues": 122,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2793,
+            "stars": 2794,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -515,7 +515,7 @@
             "open_issues": 32,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1222,
+            "stars": 1221,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -611,7 +611,7 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-04T17:20:01Z",
+            "last_commit": "2026-10-05T11:25:17Z",
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T20:22:53.612Z",
+    "last_updated": "2026-10-05T23:19:50.132Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 15,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3428,
+      "stars": 3429,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
