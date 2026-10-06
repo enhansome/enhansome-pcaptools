@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4863,
+            "stars": 4866,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1931,
+            "stars": 1932,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1023,
+            "stars": 1022,
             "topics": [
               "grepping",
               "sniffer"
@@ -369,7 +369,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-10-06T09:34:20Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3145,
@@ -414,7 +414,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2794,
+            "stars": 2795,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -461,7 +461,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1368,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -515,7 +515,7 @@
             "open_issues": 32,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1221,
+            "stars": 1223,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
-            "open_issues": 97,
+            "open_issues": 96,
             "owner": "kbandla",
             "repo": "dpkt",
             "stars": 1164,
@@ -611,7 +611,7 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-06T09:56:06Z",
+            "last_commit": "2026-10-06T16:25:20Z",
             "open_issues": 5,
             "owner": "phaag",
             "repo": "nfdump",
@@ -668,7 +668,7 @@
             "open_issues": 12,
             "owner": "MITRECND",
             "repo": "chopshop",
-            "stars": 494,
+            "stars": 495,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -746,7 +746,7 @@
             "open_issues": 37,
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 308,
+            "stars": 307,
             "topics": [
               "ebpf",
               "linux",
@@ -1059,7 +1059,7 @@
             "open_issues": 45,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 690,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-06T10:19:13.123Z",
+    "last_updated": "2026-10-06T21:51:21.813Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
