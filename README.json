@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4877,
+            "stars": 4884,
             "topics": [
               "android",
               "capture-traffic",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1482,
+            "stars": 1481,
             "topics": [
               "analysis",
               "c-sharp",
@@ -124,7 +124,7 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T21:03:13Z",
+            "last_commit": "2026-10-09T10:11:03Z",
             "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
@@ -190,8 +190,8 @@
             "id": 138287889,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-08T10:39:54Z",
-            "open_issues": 12,
+            "last_commit": "2026-10-09T05:26:25Z",
+            "open_issues": 6,
             "owner": "Netis",
             "repo": "cloud-probe",
             "stars": 963,
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-08T22:19:00Z",
+            "last_commit": "2026-10-09T21:31:26Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3307,
+            "stars": 3309,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-08T20:40:17Z",
-            "open_issues": 56,
+            "last_commit": "2026-10-09T07:54:33Z",
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3146,
@@ -414,7 +414,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2796,
+            "stars": 2795,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -482,7 +482,7 @@
             "open_issues": 5,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1352,
+            "stars": 1353,
             "topics": [
               "c",
               "flow",
@@ -556,7 +556,7 @@
             "open_issues": 96,
             "owner": "kbandla",
             "repo": "dpkt",
-            "stars": 1164,
+            "stars": 1165,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -612,7 +612,7 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2026-10-08T10:43:15Z",
-            "open_issues": 6,
+            "open_issues": 5,
             "owner": "phaag",
             "repo": "nfdump",
             "stars": 923,
@@ -742,7 +742,7 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-04T13:05:04Z",
+            "last_commit": "2026-10-09T15:04:03Z",
             "open_issues": 37,
             "owner": "ddddddO",
             "repo": "packemon",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-08T22:21:30.371Z",
+    "last_updated": "2026-10-09T21:51:05.363Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 15,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3430,
+      "stars": 3431,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
