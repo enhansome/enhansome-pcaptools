@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4898,
+            "stars": 4904,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1934,
+            "stars": 1933,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1482,
+            "stars": 1481,
             "topics": [
               "analysis",
               "c-sharp",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-09T10:11:03Z",
+            "last_commit": "2026-10-12T09:25:28Z",
             "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1250,
+            "stars": 1249,
             "topics": [
               "avro",
               "bgp",
@@ -190,7 +190,7 @@
             "id": 138287889,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-09T05:26:25Z",
+            "last_commit": "2026-10-12T03:08:59Z",
             "open_issues": 6,
             "owner": "Netis",
             "repo": "cloud-probe",
@@ -224,11 +224,11 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T13:10:15Z",
+            "last_commit": "2026-10-12T23:18:48Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
-            "stars": 219,
+            "stars": 218,
             "topics": [
               "ipfix",
               "netflow",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3308,
+            "stars": 3312,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-11T20:02:24Z",
-            "open_issues": 64,
+            "last_commit": "2026-10-12T22:05:37Z",
+            "open_issues": 61,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3146,
+            "stars": 3147,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2796,
+            "stars": 2798,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -577,7 +577,7 @@
             "open_issues": 10,
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 957,
+            "stars": 958,
             "topics": [
               "arp",
               "bgp",
@@ -611,11 +611,11 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-11T11:32:30Z",
+            "last_commit": "2026-10-12T11:20:14Z",
             "open_issues": 5,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 923,
+            "stars": 922,
             "topics": [
               "ipfix",
               "netflow",
@@ -668,7 +668,7 @@
             "open_issues": 12,
             "owner": "MITRECND",
             "repo": "chopshop",
-            "stars": 495,
+            "stars": 494,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -742,11 +742,11 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-09T15:04:03Z",
+            "last_commit": "2026-10-12T04:17:19Z",
             "open_issues": 37,
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 307,
+            "stars": 308,
             "topics": [
               "ebpf",
               "linux",
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1138,
+                "stars": 1140,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T21:02:54.037Z",
+    "last_updated": "2026-10-12T23:44:27.571Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1213,10 +1213,10 @@
       "language": null,
       "license": "CC0-1.0",
       "last_commit": "2025-09-03T07:24:40Z",
-      "open_issues": 15,
+      "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3431,
+      "stars": 3432,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
