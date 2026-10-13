@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4904,
+            "stars": 4910,
             "topics": [
               "android",
               "capture-traffic",
@@ -87,7 +87,7 @@
             "id": 36370093,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-10T00:34:29Z",
+            "last_commit": "2026-10-13T20:37:55Z",
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
@@ -128,7 +128,7 @@
             "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1249,
+            "stars": 1250,
             "topics": [
               "avro",
               "bgp",
@@ -190,8 +190,8 @@
             "id": 138287889,
             "language": "C",
             "license": "BSD-3-Clause",
-            "last_commit": "2026-10-12T03:08:59Z",
-            "open_issues": 6,
+            "last_commit": "2026-10-13T10:23:57Z",
+            "open_issues": 4,
             "owner": "Netis",
             "repo": "cloud-probe",
             "stars": 963,
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-12T23:18:48Z",
+            "last_commit": "2026-10-13T20:03:27Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3404,
+            "stars": 3405,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3312,
+            "stars": 3313,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-12T22:05:37Z",
-            "open_issues": 61,
+            "last_commit": "2026-10-13T08:04:44Z",
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3147,
+            "stars": 3148,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2798,
+            "stars": 2799,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1140,
+                "stars": 1141,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-12T23:44:27.571Z",
+    "last_updated": "2026-10-13T21:56:32.315Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3432,
+      "stars": 3433,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
