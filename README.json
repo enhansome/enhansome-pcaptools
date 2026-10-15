@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4914,
+            "stars": 4921,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,7 +124,7 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T16:58:11Z",
+            "last_commit": "2026-10-15T14:21:40Z",
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
@@ -222,9 +222,9 @@
             "description": "softflowd:  A flow-based network traffic analyser capable of Cisco NetFlow data export software.",
             "homepage": "https://github.com/irino/softflowd",
             "id": 64569653,
-            "language": "C++",
+            "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T13:12:52Z",
+            "last_commit": "2026-10-15T14:47:58Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3405,
+            "stars": 3404,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3312,
+            "stars": 3314,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-14T07:31:25Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-15T09:02:10Z",
+            "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3149,
+            "stars": 3150,
             "topics": [
               "cpp",
               "dpdk",
@@ -411,7 +411,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T00:26:32Z",
-            "open_issues": 123,
+            "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2799,
@@ -1059,7 +1059,7 @@
             "open_issues": 45,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 688,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1142,
+                "stars": 1143,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-14T20:54:44.575Z",
+    "last_updated": "2026-10-15T20:29:36.522Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
