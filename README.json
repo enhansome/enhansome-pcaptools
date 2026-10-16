@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4921,
+            "stars": 4924,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,8 +124,8 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T14:21:40Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-16T17:08:54Z",
+            "open_issues": 50,
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1250,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3404,
+            "stars": 3405,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 65,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3314,
+            "stars": 3315,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,7 +368,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-15T09:02:10Z",
+            "last_commit": "2026-10-16T11:55:17Z",
             "open_issues": 58,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -611,7 +611,7 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-14T11:50:25Z",
+            "last_commit": "2026-10-16T10:53:29Z",
             "open_issues": 5,
             "owner": "phaag",
             "repo": "nfdump",
@@ -742,8 +742,8 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-12T04:17:19Z",
-            "open_issues": 37,
+            "last_commit": "2026-10-16T15:03:02Z",
+            "open_issues": 39,
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 308,
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1143,
+                "stars": 1144,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-15T20:29:36.522Z",
+    "last_updated": "2026-10-16T20:02:04.064Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
