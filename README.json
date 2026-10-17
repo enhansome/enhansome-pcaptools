@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4924,
+            "stars": 4930,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1933,
+            "stars": 1934,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1481,
+            "stars": 1480,
             "topics": [
               "analysis",
               "c-sharp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-15T14:47:58Z",
+            "last_commit": "2026-10-17T05:50:36Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3405,
+            "stars": 3406,
             "topics": [
               "bruteforce",
               "cyber",
@@ -340,10 +340,10 @@
             "language": "C",
             "license": "NOASSERTION",
             "last_commit": "2023-03-15T23:09:58Z",
-            "open_issues": 65,
+            "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3315,
+            "stars": 3317,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -369,10 +369,10 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-10-16T11:55:17Z",
-            "open_issues": 58,
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3150,
+            "stars": 3151,
             "topics": [
               "cpp",
               "dpdk",
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1144,
+                "stars": 1145,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T20:02:04.064Z",
+    "last_updated": "2026-10-17T19:39:36.439Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
