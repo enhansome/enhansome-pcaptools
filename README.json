@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4933,
+            "stars": 4941,
             "topics": [
               "android",
               "capture-traffic",
@@ -128,7 +128,7 @@
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1250,
+            "stars": 1251,
             "topics": [
               "avro",
               "bgp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-18T12:52:57Z",
+            "last_commit": "2026-10-19T11:15:22Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3406,
+            "stars": 3407,
             "topics": [
               "bruteforce",
               "cyber",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-16T11:55:17Z",
-            "open_issues": 62,
+            "last_commit": "2026-10-19T08:28:26Z",
+            "open_issues": 59,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3157,
+            "stars": 3158,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 126,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2800,
+            "stars": 2802,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -515,7 +515,7 @@
             "open_issues": 32,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1225,
+            "stars": 1224,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
-            "open_issues": 100,
+            "open_issues": 101,
             "owner": "kbandla",
             "repo": "dpkt",
             "stars": 1164,
@@ -788,7 +788,7 @@
             "open_issues": 17,
             "owner": "andrewf",
             "repo": "pcap2har",
-            "stars": 243,
+            "stars": 244,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1145,
+                "stars": 1146,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-18T19:34:57.520Z",
+    "last_updated": "2026-10-19T21:42:43.224Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
