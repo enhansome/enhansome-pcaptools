@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4941,
+            "stars": 4943,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-16T17:08:54Z",
+            "last_commit": "2026-10-20T12:02:25Z",
             "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1251,
+            "stars": 1252,
             "topics": [
               "avro",
               "bgp",
@@ -222,9 +222,9 @@
             "description": "softflowd:  A flow-based network traffic analyser capable of Cisco NetFlow data export software.",
             "homepage": "https://github.com/irino/softflowd",
             "id": 64569653,
-            "language": "C",
+            "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-19T11:15:22Z",
+            "last_commit": "2026-10-20T12:33:20Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3318,
+            "stars": 3321,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -369,7 +369,7 @@
             "language": "C++",
             "license": "Unlicense",
             "last_commit": "2026-10-19T08:28:26Z",
-            "open_issues": 59,
+            "open_issues": 60,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3158,
@@ -411,7 +411,7 @@
             "language": "C",
             "license": "GPL-2.0",
             "last_commit": "2026-09-20T00:26:32Z",
-            "open_issues": 126,
+            "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
             "stars": 2802,
@@ -461,7 +461,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1367,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -615,7 +615,7 @@
             "open_issues": 5,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 922,
+            "stars": 923,
             "topics": [
               "ipfix",
               "netflow",
@@ -743,7 +743,7 @@
             "language": "Go",
             "license": "BSD-2-Clause",
             "last_commit": "2026-10-18T02:37:31Z",
-            "open_issues": 39,
+            "open_issues": 55,
             "owner": "ddddddO",
             "repo": "packemon",
             "stars": 308,
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1146,
+                "stars": 1148,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-19T21:42:43.224Z",
+    "last_updated": "2026-10-20T20:47:52.037Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
