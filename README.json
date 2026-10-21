@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4943,
+            "stars": 4953,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1934,
+            "stars": 1933,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-20T12:02:25Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-21T11:16:13Z",
+            "open_issues": 51,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1252,
+            "stars": 1254,
             "topics": [
               "avro",
               "bgp",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3321,
+            "stars": 3322,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-19T08:28:26Z",
-            "open_issues": 60,
+            "last_commit": "2026-10-21T07:44:11Z",
+            "open_issues": 69,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3158,
@@ -435,7 +435,7 @@
             "open_issues": 73,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1778,
+            "stars": 1777,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -556,7 +556,7 @@
             "open_issues": 101,
             "owner": "kbandla",
             "repo": "dpkt",
-            "stars": 1164,
+            "stars": 1163,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -714,7 +714,7 @@
             "open_issues": 4,
             "owner": "pellegre",
             "repo": "libcrafter",
-            "stars": 312,
+            "stars": 311,
             "topics": [
               "libpcap",
               "network-programming",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-20T20:47:52.037Z",
+    "last_updated": "2026-10-21T20:50:36.367Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
