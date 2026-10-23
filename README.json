@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4960,
+            "stars": 4966,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-22T08:59:22Z",
-            "open_issues": 50,
+            "last_commit": "2026-10-23T11:39:24Z",
+            "open_issues": 48,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1254,
+            "stars": 1255,
             "topics": [
               "avro",
               "bgp",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3408,
+            "stars": 3406,
             "topics": [
               "bruteforce",
               "cyber",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-22T11:22:37Z",
-            "open_issues": 74,
+            "last_commit": "2026-10-23T08:07:42Z",
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3158,
+            "stars": 3159,
             "topics": [
               "cpp",
               "dpdk",
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1777,
+            "stars": 1778,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -615,7 +615,7 @@
             "open_issues": 5,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 924,
+            "stars": 925,
             "topics": [
               "ipfix",
               "netflow",
@@ -647,7 +647,7 @@
             "open_issues": 15,
             "owner": "omriher",
             "repo": "CapTipper",
-            "stars": 724,
+            "stars": 723,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -714,7 +714,7 @@
             "open_issues": 4,
             "owner": "pellegre",
             "repo": "libcrafter",
-            "stars": 311,
+            "stars": 312,
             "topics": [
               "libpcap",
               "network-programming",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T20:44:27.590Z",
+    "last_updated": "2026-10-23T20:36:29.949Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3434,
+      "stars": 3435,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
