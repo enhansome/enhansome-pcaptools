@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4969,
+            "stars": 4975,
             "topics": [
               "android",
               "capture-traffic",
@@ -224,8 +224,8 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T04:48:49Z",
-            "open_issues": 1,
+            "last_commit": "2026-10-24T23:42:08Z",
+            "open_issues": 2,
             "owner": "irino",
             "repo": "softflowd",
             "stars": 218,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3406,
+            "stars": 3408,
             "topics": [
               "bruteforce",
               "cyber",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-23T08:07:42Z",
-            "open_issues": 68,
+            "last_commit": "2026-10-25T17:25:02Z",
+            "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3159,
@@ -414,7 +414,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2804,
+            "stars": 2805,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1778,
+            "stars": 1779,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -742,11 +742,11 @@
             "id": 792322009,
             "language": "Go",
             "license": "BSD-2-Clause",
-            "last_commit": "2026-10-18T02:37:31Z",
-            "open_issues": 55,
+            "last_commit": "2026-10-25T08:44:46Z",
+            "open_issues": 41,
             "owner": "ddddddO",
             "repo": "packemon",
-            "stars": 309,
+            "stars": 311,
             "topics": [
               "ebpf",
               "linux",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T19:42:33.905Z",
+    "last_updated": "2026-10-25T19:54:05.472Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
