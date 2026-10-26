@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 4975,
+            "stars": 4980,
             "topics": [
               "android",
               "capture-traffic",
@@ -87,11 +87,11 @@
             "id": 36370093,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-10-13T20:37:55Z",
+            "last_commit": "2026-10-26T17:53:19Z",
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1480,
+            "stars": 1483,
             "topics": [
               "analysis",
               "c-sharp",
@@ -124,8 +124,8 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-23T11:39:24Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-26T13:10:04Z",
+            "open_issues": 51,
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1255,
@@ -224,8 +224,8 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-24T23:42:08Z",
-            "open_issues": 2,
+            "last_commit": "2026-10-26T14:18:52Z",
+            "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
             "stars": 218,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3408,
+            "stars": 3410,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3325,
+            "stars": 3327,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,7 +368,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-10-25T17:25:02Z",
+            "last_commit": "2026-10-26T07:47:19Z",
             "open_issues": 66,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -410,11 +410,11 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-09-20T00:26:32Z",
-            "open_issues": 124,
+            "last_commit": "2026-10-26T18:57:23Z",
+            "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2805,
+            "stars": 2807,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1779,
+            "stars": 1777,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -478,8 +478,8 @@
             "id": 14542959,
             "language": "C",
             "license": "GPL-3.0",
-            "last_commit": "2026-08-15T16:15:36Z",
-            "open_issues": 5,
+            "last_commit": "2026-10-26T01:53:56Z",
+            "open_issues": 1,
             "owner": "appneta",
             "repo": "tcpreplay",
             "stars": 1354,
@@ -515,7 +515,7 @@
             "open_issues": 32,
             "owner": "nfstream",
             "repo": "nfstream",
-            "stars": 1224,
+            "stars": 1223,
             "topics": [
               "artificial-intelligence",
               "cybersecurity",
@@ -1059,7 +1059,7 @@
             "open_issues": 45,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 690,
+            "stars": 689,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1148,
+                "stars": 1150,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T19:54:05.472Z",
+    "last_updated": "2026-10-26T21:48:05.161Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
