@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-10-29T09:25:46Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5011,
+            "stars": 5022,
             "topics": [
               "android",
               "capture-traffic",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1483,
+            "stars": 1484,
             "topics": [
               "analysis",
               "c-sharp",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-28T09:45:31Z",
+            "last_commit": "2026-10-30T19:02:01Z",
             "open_issues": 48,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1256,
+            "stars": 1257,
             "topics": [
               "avro",
               "bgp",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1024,
+            "stars": 1026,
             "topics": [
               "grepping",
               "sniffer"
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-29T13:01:50Z",
+            "last_commit": "2026-10-30T13:01:50Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3409,
+            "stars": 3410,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3333,
+            "stars": 3336,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -414,7 +414,7 @@
             "open_issues": 125,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2809,
+            "stars": 2808,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1778,
+            "stars": 1779,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -482,7 +482,7 @@
             "open_issues": 5,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1354,
+            "stars": 1355,
             "topics": [
               "c",
               "flow",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-29T21:57:09.383Z",
+    "last_updated": "2026-10-30T21:40:08.251Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 14,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3432,
+      "stars": 3433,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
