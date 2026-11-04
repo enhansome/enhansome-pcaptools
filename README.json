@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-02T08:30:43Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5070,
+            "stars": 5083,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,8 +124,8 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T11:09:47Z",
-            "open_issues": 48,
+            "last_commit": "2026-11-04T14:14:43Z",
+            "open_issues": 47,
             "owner": "pmacct",
             "repo": "pmacct",
             "stars": 1257,
@@ -224,8 +224,8 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-03T22:14:38Z",
-            "open_issues": 2,
+            "last_commit": "2026-11-04T22:18:34Z",
+            "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
             "stars": 218,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3414,
+            "stars": 3415,
             "topics": [
               "bruteforce",
               "cyber",
@@ -431,8 +431,8 @@
             "id": 3889407,
             "language": "C++",
             "license": "GPL-3.0",
-            "last_commit": "2026-01-29T22:18:29Z",
-            "open_issues": 75,
+            "last_commit": "2026-11-03T23:18:40Z",
+            "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
             "stars": 1779,
@@ -461,7 +461,7 @@
             "open_issues": 30,
             "owner": "cisco",
             "repo": "joy",
-            "stars": 1365,
+            "stars": 1366,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1151,7 +1151,7 @@
                 "open_issues": 64,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1155,
+                "stars": 1156,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T22:29:02.694Z",
+    "last_updated": "2026-11-04T22:48:31.506Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
