@@ -19,7 +19,7 @@
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5109,
+            "stars": 5124,
             "topics": [
               "android",
               "capture-traffic",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1485,
+            "stars": 1486,
             "topics": [
               "analysis",
               "c-sharp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-05T13:14:00Z",
+            "last_commit": "2026-11-07T11:59:06Z",
             "open_issues": 2,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3418,
+            "stars": 3420,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3343,
+            "stars": 3344,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -372,7 +372,7 @@
             "open_issues": 70,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3164,
+            "stars": 3165,
             "topics": [
               "cpp",
               "dpdk",
@@ -414,7 +414,7 @@
             "open_issues": 124,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2808,
+            "stars": 2807,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -432,7 +432,7 @@
             "language": "C++",
             "license": "GPL-3.0",
             "last_commit": "2026-11-03T23:18:40Z",
-            "open_issues": 73,
+            "open_issues": 89,
             "owner": "simsong",
             "repo": "tcpflow",
             "stars": 1779,
@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
-            "open_issues": 107,
+            "open_issues": 109,
             "owner": "kbandla",
             "repo": "dpkt",
             "stars": 1163,
@@ -1059,7 +1059,7 @@
             "open_issues": 45,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 689,
+            "stars": 690,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-06T22:18:38.655Z",
+    "last_updated": "2026-11-07T21:03:03.114Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
