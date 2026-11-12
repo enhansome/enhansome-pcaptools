@@ -15,11 +15,11 @@
             "id": 232157758,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-10T17:05:17Z",
+            "last_commit": "2026-11-12T11:17:23Z",
             "open_issues": 42,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5157,
+            "stars": 5166,
             "topics": [
               "android",
               "capture-traffic",
@@ -128,7 +128,7 @@
             "open_issues": 46,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1258,
+            "stars": 1259,
             "topics": [
               "avro",
               "bgp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-11T13:32:05Z",
+            "last_commit": "2026-11-12T11:13:27Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3426,
+            "stars": 3429,
             "topics": [
               "bruteforce",
               "cyber",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3349,
+            "stars": 3352,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-11T09:07:52Z",
-            "open_issues": 67,
+            "last_commit": "2026-11-12T08:20:19Z",
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3170,
@@ -414,7 +414,7 @@
             "open_issues": 123,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2808,
+            "stars": 2809,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T23:38:53.297Z",
+    "last_updated": "2026-11-12T22:50:35.848Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
