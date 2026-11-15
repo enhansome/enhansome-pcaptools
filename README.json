@@ -16,10 +16,10 @@
             "language": "Java",
             "license": "GPL-3.0",
             "last_commit": "2026-11-12T11:17:23Z",
-            "open_issues": 42,
+            "open_issues": 43,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5179,
+            "stars": 5182,
             "topics": [
               "android",
               "capture-traffic",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1025,
+            "stars": 1027,
             "topics": [
               "grepping",
               "sniffer"
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-14T21:09:17Z",
+            "last_commit": "2026-11-15T12:52:34Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3430,
+            "stars": 3431,
             "topics": [
               "bruteforce",
               "cyber",
@@ -410,7 +410,7 @@
             "id": 5041133,
             "language": "C",
             "license": "GPL-2.0",
-            "last_commit": "2026-11-14T21:00:05Z",
+            "last_commit": "2026-11-15T17:54:48Z",
             "open_issues": 114,
             "owner": "Ettercap",
             "repo": "ettercap",
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1781,
+            "stars": 1782,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -577,7 +577,7 @@
             "open_issues": 12,
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 959,
+            "stars": 960,
             "topics": [
               "arp",
               "bgp",
@@ -752,8 +752,8 @@
             "id": 6434669,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-11-08T02:13:31Z",
-            "open_issues": 5,
+            "last_commit": "2026-11-15T02:15:18Z",
+            "open_issues": 6,
             "owner": "pellegre",
             "repo": "libcrafter",
             "stars": 312,
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T21:39:23.068Z",
+    "last_updated": "2026-11-15T22:00:24.513Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 16,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3440,
+      "stars": 3441,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
