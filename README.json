@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5182,
+            "stars": 5191,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1928,
+            "stars": 1929,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -87,7 +87,7 @@
             "id": 36370093,
             "language": "C#",
             "license": null,
-            "last_commit": "2026-11-13T04:48:21Z",
+            "last_commit": "2026-11-16T01:45:35Z",
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
@@ -170,7 +170,7 @@
             "open_issues": 1,
             "owner": "jpr5",
             "repo": "ngrep",
-            "stars": 1027,
+            "stars": 1026,
             "topics": [
               "grepping",
               "sniffer"
@@ -194,7 +194,7 @@
             "open_issues": 5,
             "owner": "Netis",
             "repo": "cloud-probe",
-            "stars": 963,
+            "stars": 964,
             "topics": [
               "capture",
               "cloud",
@@ -224,8 +224,8 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-15T12:52:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-16T21:36:34Z",
+            "open_issues": 3,
             "owner": "irino",
             "repo": "softflowd",
             "stars": 219,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3431,
+            "stars": 3432,
             "topics": [
               "bruteforce",
               "cyber",
@@ -368,11 +368,11 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-13T09:45:01Z",
+            "last_commit": "2026-11-16T03:03:45Z",
             "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
-            "stars": 3172,
+            "stars": 3174,
             "topics": [
               "cpp",
               "dpdk",
@@ -512,7 +512,7 @@
             "language": "Python",
             "license": "LGPL-3.0",
             "last_commit": "2026-09-14T15:03:20Z",
-            "open_issues": 34,
+            "open_issues": 35,
             "owner": "nfstream",
             "repo": "nfstream",
             "stars": 1224,
@@ -615,7 +615,7 @@
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
-            "stars": 927,
+            "stars": 928,
             "topics": [
               "ipfix",
               "netflow",
@@ -1151,7 +1151,7 @@
                 "open_issues": 68,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1158,
+                "stars": 1159,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-15T22:00:24.513Z",
+    "last_updated": "2026-11-17T00:59:57.459Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
