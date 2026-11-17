@@ -19,7 +19,7 @@
             "open_issues": 43,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5191,
+            "stars": 5196,
             "topics": [
               "android",
               "capture-traffic",
@@ -53,7 +53,7 @@
             "open_issues": 22,
             "owner": "deepfence",
             "repo": "PacketStreamer",
-            "stars": 1929,
+            "stars": 1930,
             "topics": [
               "forensics-tools",
               "hacktoberfest",
@@ -91,7 +91,7 @@
             "open_issues": 29,
             "owner": "dotpcap",
             "repo": "sharppcap",
-            "stars": 1486,
+            "stars": 1485,
             "topics": [
               "analysis",
               "c-sharp",
@@ -124,7 +124,7 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-12T23:47:40Z",
+            "last_commit": "2026-11-17T21:26:16Z",
             "open_issues": 47,
             "owner": "pmacct",
             "repo": "pmacct",
@@ -224,11 +224,11 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-16T21:36:34Z",
-            "open_issues": 3,
+            "last_commit": "2026-11-17T22:59:23Z",
+            "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
-            "stars": 219,
+            "stars": 220,
             "topics": [
               "ipfix",
               "netflow",
@@ -343,7 +343,7 @@
             "open_issues": 66,
             "owner": "basil00",
             "repo": "WinDivert",
-            "stars": 3352,
+            "stars": 3354,
             "topics": [
               "divert-sockets",
               "firewall",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-16T03:03:45Z",
-            "open_issues": 68,
+            "last_commit": "2026-11-17T20:50:16Z",
+            "open_issues": 65,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3174,
@@ -414,7 +414,7 @@
             "open_issues": 114,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2810,
+            "stars": 2812,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1782,
+            "stars": 1781,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -577,7 +577,7 @@
             "open_issues": 12,
             "owner": "libnet",
             "repo": "libnet",
-            "stars": 960,
+            "stars": 961,
             "topics": [
               "arp",
               "bgp",
@@ -689,7 +689,7 @@
             "open_issues": 12,
             "owner": "DNS-OARC",
             "repo": "PacketQ",
-            "stars": 395,
+            "stars": 396,
             "topics": [
               "dns",
               "pcap",
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T00:59:57.459Z",
+    "last_updated": "2026-11-17T23:55:41.198Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 16,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3441,
+      "stars": 3442,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
