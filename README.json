@@ -15,11 +15,11 @@
             "id": 232157758,
             "language": "Java",
             "license": "GPL-3.0",
-            "last_commit": "2026-11-18T17:28:32Z",
-            "open_issues": 44,
+            "last_commit": "2026-11-20T18:33:38Z",
+            "open_issues": 45,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5219,
+            "stars": 5228,
             "topics": [
               "android",
               "capture-traffic",
@@ -128,7 +128,7 @@
             "open_issues": 47,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1259,
+            "stars": 1260,
             "topics": [
               "avro",
               "bgp",
@@ -224,7 +224,7 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-19T22:28:24Z",
+            "last_commit": "2026-11-20T12:24:28Z",
             "open_issues": 1,
             "owner": "irino",
             "repo": "softflowd",
@@ -368,7 +368,7 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-19T09:23:06Z",
+            "last_commit": "2026-11-20T09:54:11Z",
             "open_issues": 64,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
@@ -482,7 +482,7 @@
             "open_issues": 4,
             "owner": "appneta",
             "repo": "tcpreplay",
-            "stars": 1354,
+            "stars": 1355,
             "topics": [
               "c",
               "flow",
@@ -553,7 +553,7 @@
             "language": "Python",
             "license": "NOASSERTION",
             "last_commit": "2024-07-26T04:11:43Z",
-            "open_issues": 110,
+            "open_issues": 111,
             "owner": "kbandla",
             "repo": "dpkt",
             "stars": 1162,
@@ -1151,7 +1151,7 @@
                 "open_issues": 68,
                 "owner": "desowin",
                 "repo": "usbpcap",
-                "stars": 1159,
+                "stars": 1160,
                 "topics": []
               },
               "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T23:44:32.352Z",
+    "last_updated": "2026-11-20T23:17:28.784Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
@@ -1216,7 +1216,7 @@
       "open_issues": 16,
       "owner": "caesar0301",
       "repo": "awesome-pcaptools",
-      "stars": 3440,
+      "stars": 3441,
       "topics": []
     },
     "original_repository_sha": "d6f8b267e4359e693815bf6c331c4951577c6b6a",
