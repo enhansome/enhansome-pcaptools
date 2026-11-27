@@ -19,7 +19,7 @@
             "open_issues": 45,
             "owner": "emanuele-f",
             "repo": "PCAPdroid",
-            "stars": 5289,
+            "stars": 5296,
             "topics": [
               "android",
               "capture-traffic",
@@ -124,11 +124,11 @@
             "id": 47927525,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T20:49:01Z",
-            "open_issues": 50,
+            "last_commit": "2026-11-26T16:33:38Z",
+            "open_issues": 49,
             "owner": "pmacct",
             "repo": "pmacct",
-            "stars": 1260,
+            "stars": 1261,
             "topics": [
               "avro",
               "bgp",
@@ -224,8 +224,8 @@
             "id": 64569653,
             "language": "C++",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-24T20:27:40Z",
-            "open_issues": 1,
+            "last_commit": "2026-11-26T23:08:20Z",
+            "open_issues": 2,
             "owner": "irino",
             "repo": "softflowd",
             "stars": 220,
@@ -304,7 +304,7 @@
             "open_issues": 38,
             "owner": "odedshimon",
             "repo": "BruteShark",
-            "stars": 3433,
+            "stars": 3435,
             "topics": [
               "bruteforce",
               "cyber",
@@ -368,8 +368,8 @@
             "id": 24911519,
             "language": "C++",
             "license": "Unlicense",
-            "last_commit": "2026-11-25T09:04:57Z",
-            "open_issues": 71,
+            "last_commit": "2026-11-27T00:26:02Z",
+            "open_issues": 68,
             "owner": "seladb",
             "repo": "PcapPlusPlus",
             "stars": 3177,
@@ -414,7 +414,7 @@
             "open_issues": 113,
             "owner": "Ettercap",
             "repo": "ettercap",
-            "stars": 2815,
+            "stars": 2816,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -435,7 +435,7 @@
             "open_issues": 74,
             "owner": "simsong",
             "repo": "tcpflow",
-            "stars": 1783,
+            "stars": 1784,
             "topics": [
               "digital-forensics",
               "forensics",
@@ -611,7 +611,7 @@
             "id": 40435192,
             "language": "C",
             "license": "NOASSERTION",
-            "last_commit": "2026-11-25T16:44:56Z",
+            "last_commit": "2026-11-26T16:17:45Z",
             "open_issues": 4,
             "owner": "phaag",
             "repo": "nfdump",
@@ -1059,7 +1059,7 @@
             "open_issues": 45,
             "owner": "sleuthkit",
             "repo": "scalpel",
-            "stars": 692,
+            "stars": 693,
             "topics": []
           },
           "first_seen": "2026-08-29T01:07:54.833Z"
@@ -1204,7 +1204,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-26T01:06:36.988Z",
+    "last_updated": "2026-11-27T01:07:31.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A collection of tools developed by other researchers in the Computer Science area to process network traces. All the right reserved for the original authors.",
